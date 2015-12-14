@@ -1,0 +1,257 @@
+﻿body {
+	margin: 0;
+	padding: 0;
+	background-image: url(none);
+	background-color: #333;
+	color: #fff;
+	font: large/1.7 Verdana, Arial, Helvetica, sans-serif;
+	height: 100%;
+	width: 100%;
+}
+
+#wrapper {
+	position: relative;
+	width: 100%;
+	margin: 0;
+}
+
+#header {
+	background: url(images/header_zoom.gif) no-repeat right;
+	background-color: #333;
+	color: #fff;
+	height: 10em;
+	width: 100%;
+}
+#header p {
+	font-size: 80%;
+	padding: 20px 20px;
+}
+
+#navigation {
+	background: url(none);
+	background-color: #333;
+	color: #fff;
+	height: 5em;
+	width: 100%;
+	margin: 1em;
+}
+#navigation li a:link {
+	text-decoration: none;
+	background: transparent;
+	color: #ff0;
+}
+#navigation li a:visited  {
+	text-decoration: none;
+	background: transparent;
+	color: #ff0;
+}
+#navigation li a:hover, #navigation li a:visited:hover {
+	text-decoration: none;
+	background: transparent;
+	color: #ff0;
+}
+
+#visitors_nav {
+	border-bottom: #000000 solid 1px;
+	margin: 0 25px 0 24px;
+}
+#visitors_nav ul li {
+	color: #000000;
+	background: transparent;
+}
+#visitors_nav .inner {
+	text-align: center;
+	margin: 0 30px;
+	padding: 0.5em 0 0.7em 0;
+}
+#visitors_nav .inner ul, #visitors_nav .inner li {
+	list-style: none;
+	display: inline;
+	margin: 0;
+	padding: 0;
+}
+#visitors_nav .inner ul li a span.underline {
+	text-decoration: underline;
+}
+#visitors_nav .inner ul, li a:link {
+	text-decoration: none;
+	background: transparent;
+	color: #ff0;
+}
+#visitors_nav .inner ul, li a:visited {
+	text-decoration: none;
+	background: transparent;
+	color: #ff0;
+}
+#visitors_nav ul, li a:hover, #visitors_nav ul, li a:visited:hover {
+	text-decoration: none;
+	background: transparent;
+	color: #ff0;
+}
+
+#content {
+	background: url(none);
+	background-color: #333;
+	height: auto;
+	width: 100%;
+	margin-top: 1em;
+}
+#content img.validator {
+	width: 88px;
+	height: 31px;
+	margin: 0 auto;
+	padding: 1em;
+}
+#content h1 {
+	color: #fff;
+	font-size: 150%;
+	text-align: center;
+	margin: 0;
+	padding: 0.2em 0;
+}
+#content p {
+	font-size: 100%;
+	line-height: 1.2;
+	background-color: transparent;
+	color: #fff;
+	margin: 0;
+	padding: 0.4em 35px 0.4em 35px;
+}
+#content p a:link {
+	text-decoration: none;
+	background-color: transparent;
+	color: #ff0;
+}
+#content p a:visited  {
+	text-decoration: none;
+	background-color: transparent;
+	color: #ff0;
+}
+#content p a:hover, #navigation li a:visited:hover {
+	text-decoration: none;
+	background-color: transparent;
+	color: #ff0;
+}
+#content p.centre {
+	text-align: center;
+}
+#content table.styled {
+	width: 85%;
+	margin: 0 auto;
+	border-collapse: collapse;
+	border: 1px solid #ffffff;
+	background-color: #000;
+	color: #fff;
+}
+#content table.styled thead {
+	background-color: #333;
+	color: #fff;
+}
+#content table.styled tbody {
+	background-color: #333;
+	color: #fff;
+}
+#content table.styled tr.odd {
+	background-color: #333;
+	color: #fff;
+}
+#content table.styled tbody tr td {
+	text-align: center;
+	border: 3px solid #ffffff;
+}
+#content table.styled tbody tr th {
+	border: 3px solid #ffffff;
+	width: 150px;
+}
+#content img.welcome {
+	width: 690px;
+	margin: 0 auto;
+}
+#content img.girlpic {
+	position: relative;
+	margin-right: 32px;
+	float: right;
+	padding: 5px;
+}
+#content img.teapic {
+	position: relative;
+	margin-right: 32px;
+	float: right;
+	padding: 5px;
+}
+#content img.reachpic {
+	position: relative;
+	margin-left: 37px;
+	float: left;
+	padding: 5px;
+}
+#content ul.styled {
+	background-color: #333;
+	color: #fff;
+	font-variant: normal;
+	margin: 0;
+	padding: 0 0.2em;
+	border: groove 2px #ecf7ff;
+	width: 70%;
+}
+#content ul.styled li {
+	list-style: none;
+	padding: 0.2em;
+}
+#content ul.styled li ul.bullet li {
+	list-style: url(none) disc;
+	border: none;
+}
+#imagebox {
+	width: 690px;
+	margin: 0 auto;
+}
+#content .nbox_top {
+	background: url(none) #333;
+	color: #fff;
+	width: 50%;
+	height: 2.5em;
+	margin: 1em auto;
+	padding: 0.2em;
+}
+#content .nbox_content {
+	background: url(none) #333;
+	color: #fff;
+	width: 50%;
+	margin: 0 auto;
+}
+#content .nbox_content p {
+	padding: 0.2em 1.5em;
+}
+#content .nbox_bottom {
+	background: url(none) #333 no-repeat;
+	color: #fff;
+	width: 50%;
+	margin: 0 auto;
+}
+
+#footer {
+	background: url(none) #333;
+	height: 2em;
+	width: 100%;
+}
+#footer p {
+	margin: 0;
+	padding: 28px 0px;
+	text-align: center;
+}
+#footer p a:link {
+	text-decoration: none;
+	background: transparent;
+	color: #ff0;
+}
+#footer p a:visited  {
+	text-decoration: none;
+	background: transparent;
+	color: #ff0;
+}
+#footer p a:hover, #navigation li a:visited:hover {
+	text-decoration: none;
+	background: transparent;
+	color: #ff0;
+}
