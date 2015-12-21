@@ -6,7 +6,7 @@
 
 				<p class="centre">(For a long-term look at our church, see the <a href="upcoming.php">Coming Weeks page</a>)</p>
 
-				<p class="centre"><strong>Schedule for the week 13th to 20th December</strong></p>
+				<p class="centre"><strong>Schedule for the week 20th to 27th December</strong></p>
 
 				<table class="styled" summary="Schedule for events in the coming week(s)">
 					<thead>
@@ -18,34 +18,24 @@
 					</thead>
 					<tbody>
 						<tr class="odd">
-							<th scope="row">Tuesday<br /> 10:30 A.M.</th>
-							<td>Home Group at<br />Mike &amp; Pat's</td>
-							<td>Ephesians 6:10-20 - <br />"Summary and our response"</td>
-						</tr>
-						<tr>
-							<th scope="row">Wednesday<br />7:00 P.M.</th>
-							<td>Home Group at<br />David &amp; Audrey's</td>
+							<th scope="row">Wednesday<br />3:00-4:00 P.M.</th>
+							<td>Prayer time</td>
 							<td></td>
 						</tr>
-						<tr class="odd">
-							<th scope="row">Thursday<br />2:00-4:00 P.M.</th>
-							<td>"Dabblers" Hobby Group</td>
-							<td>All welcome!</td>
-						</tr>
 						<tr>
+							<th scope="row">Thursday<br />6:30 P.M.</th>
+							<td><strong>Carols by Candlelight</strong></td>
+							<td>Offering for Spurgeon's Childcare</td>
+						</tr>
+						<tr class="odd">
 							<th scope="row">Friday<br />10:30 A.M.</th>
-							<td>Home Group at<br />Bryan &amp; Audrey's</td>
-							<td></td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Sunday<br />10:30 A.M.</th>
-							<td><strong>Christmas Carol Service</strong></td>
-							<td></td>
+							<td><strong>Celebrate Christ's Birth</strong></td>
+							<td>Offering for Spurgeon's Childcare</td>
 						</tr>
 						<tr>
-							<th scope="row">Sunday<br />6:30 P.M.</th>
-							<td>Evening service as usual</td>
-							<td></td>
+							<th scope="row">Sunday<br />10:30 A.M.</th>
+							<td>Sunday Service</td>
+							<td><strong>No evening service</strong></td>
 						</tr>
 					</tbody>
 				</table>
