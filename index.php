@@ -12,10 +12,10 @@
 
 				<!--<h1 class="hcline"><a href="holidayclub.php">Holiday Club 2015 details and form now available!</a></h1>-->
 
-				<div class="nbox_top"><h1>Diary update - 14/12/15</h1></div>
+				<div class="nbox_top"><h1>Diary update - 21/12/15</h1></div>
 
 				<div class="nbox_content">
-					<p>The <a href="diary.php">diary has been updated</a> for the next week.</p>
+					<p>I've <a href="diary.php">updated the diary</a> for the next week, have a Merry Christmas!</p>
 
 					<p>- Paul</p>
 				</div>
