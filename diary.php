@@ -6,7 +6,7 @@
 
 				<p class="centre">(For a long-term look at our church, see the <a href="upcoming.php">Coming Weeks page</a>)</p>
 
-				<p class="centre"><strong>Schedule for the week 20th to 27th December</strong></p>
+				<p class="centre"><strong>Schedule for the week 27th December to 3rd January</strong></p>
 
 				<table class="styled" summary="Schedule for events in the coming week(s)">
 					<thead>
@@ -18,24 +18,9 @@
 					</thead>
 					<tbody>
 						<tr class="odd">
-							<th scope="row">Wednesday<br />3:00-4:00 P.M.</th>
-							<td>Prayer time</td>
-							<td></td>
-						</tr>
-						<tr>
-							<th scope="row">Thursday<br />6:30 P.M.</th>
-							<td><strong>Carols by Candlelight</strong></td>
-							<td>Offering for Spurgeon's Childcare</td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Friday<br />10:30 A.M.</th>
-							<td><strong>Celebrate Christ's Birth</strong></td>
-							<td>Offering for Spurgeon's Childcare</td>
-						</tr>
-						<tr>
-							<th scope="row">Sunday<br />10:30 A.M.</th>
-							<td>Sunday Service</td>
-							<td><strong>No evening service</strong></td>
+							<th scope="row">Sunday<br />10:30 A.M.<br />6:30 P.M.</th>
+							<td>Sunday Services</td>
+							<td>Morning worship includes communion</td>
 						</tr>
 					</tbody>
 				</table>
