@@ -2,33 +2,31 @@
 
 <?php include("header_hc.php"); ?>
 				<h1>Holiday Clubs</h1>
-				
+
 				<p>Every year in August we hold a Summer Holiday Club for <strong>children of ages 5-11</strong>.</p>
-				
+
 				<p><em><strong><span style="color: red;">This year’s Holiday Club will be held Tuesday 9th to Friday 12th August</span></strong></em>.</p>
-				
+
 				<!-- TEXT FOR USE AFTER CLUB FINISHED -->
-				
+
 				<p>The club sessions take place from <strong>10am to 12 noon each day</strong> with a <strong>Grand Finale on the Friday beginning at 6pm</strong> to which families are invited. The whole club is <strong>free of charge</strong>, apart from tickets for food on the Friday evening which will be sold during the week of the club.</p>
-				
+
 				<p>Each year we have <strong>songs, games, quizzes, crafts, and more</strong>, so there's something for everyone.</p><br /><br />
-				
+
 				<!-- END -->
-				
+
 				<img src="images/hc_2015_logo.jpg" alt="Holiday Club 2015 Pyramid Rock" id="hclogo" width="610" height="206" /><br /><br />
-				
+
 				<h1>Summer Holiday Club 2015</h1><br />
-				
+
 				<div id="hcparagraphs">
-					<p>This year's club, "Pyramid Rock", was set in Egypt in the days of the Pharaohs and featured the adventures of Joseph (famous for his “dreamcoat”!), taking place in a daily film.  All sessions were led by an experienced team who included Father Gary Ingram from St. Andrew's and Stuart Robinson our pastor. It all went very well, everyone enjoyed it immensely and we had more children attending than ever before, so thank you for that!</p>
-				
-				
-				<p>If you have any queries about our holiday clubs, <strong>please don't hesitate to <a href="mailto:paul@ferringbaptist.org.uk">contact us</a></strong>!</p> 
-				
-				<p><strong>To get a feel for how last year's club went, see our photos below</strong>.</p>
-				
+					<p>Last year's club, "Pyramid Rock", was set in Egypt in the days of the Pharaohs and featured the adventures of Joseph (famous for his “dreamcoat”!), taking place in a daily film.  All sessions were led by an experienced team who included Father Gary Ingram from St. Andrew's and Stuart Robinson our pastor. It all went very well, everyone enjoyed it immensely and we had more children attending than ever before, so thank you for that!</p>
+
+					<p>If you have any queries about our holiday clubs, <strong>please don't hesitate to <a href="mailto:paul@ferringbaptist.org.uk">contact us</a></strong>!</p>
+
+					<p><strong>To get a feel for how last year's club went, see our photos below</strong>.</p>
 				</div>
-				
+
 				<p>-----------------</p>
 
 
@@ -38,18 +36,18 @@
 
 				<p>-----------------</p>
 
-				
-				
+
+
 				<h2><a href="fbc_holidayclub_2015_registration.pdf">Click here to download this year's form (PDF)</a></h2>
-				
+
 				<p>-----------------</p>-->
-				
+
 				<p class="smaller">(All identifiable pictures of children used with permission of parents)</p>
-				
+
 				<a name="photos"></a>
-								
+
 				<h2>Pictures from Pyramid Rock (2015)</h2>
-				
+
 				<div class="hcthumbs">
 					<a href="images/hc_2015_001.jpg"><img src="images/hc_2015_th_001.jpg" alt="Holiday Club Picture" class="thumb" /></a> <a href="images/hc_2015_002.jpg"><img src="images/hc_2015_th_002.jpg" alt="Holiday Club Picture" class="thumb" /></a> <a href="images/hc_2015_003.jpg"><img src="images/hc_2015_th_003.jpg" alt="Holiday Club Picture" class="thumb" /></a> <a href="images/hc_2015_004.jpg"><img src="images/hc_2015_th_004.jpg" alt="Holiday Club Picture" class="thumb" /></a>
 					<a href="images/hc_2015_005.jpg"><img src="images/hc_2015_th_005.jpg" alt="Holiday Club Picture" class="thumb" /></a>  <a href="images/hc_2015_008.jpg"><img src="images/hc_2015_th_008.jpg" alt="Holiday Club Picture" class="thumb" /></a>
@@ -59,11 +57,11 @@
 					<a href="images/hc_2015_021.jpg"><img src="images/hc_2015_th_021.jpg" alt="Holiday Club Picture" class="thumb" /></a> <a href="images/hc_2015_022.jpg"><img src="images/hc_2015_th_022.jpg" alt="Holiday Club Picture" class="thumb" /></a> <a href="images/hc_2015_023.jpg"><img src="images/hc_2015_th_023.jpg" alt="Holiday Club Picture" class="thumb" /></a> <a href="images/hc_2015_024.jpg"><img src="images/hc_2015_th_024.jpg" alt="Holiday Club Picture" class="thumb" /></a>
 					<a href="images/hc_2015_025.jpg"><img src="images/hc_2015_th_025.jpg" alt="Holiday Club Picture" class="thumb" /></a> <a href="images/hc_2015_026.jpg"><img src="images/hc_2015_th_026.jpg" alt="Holiday Club Picture" class="thumb" /></a>
 				</div>
-				
+
 				<br />
-				
+
 				<p><strong><a href="holidayclub-photos.php">--Photos from previous years</a></strong></p>
-				
+
 				<br />
 			</div>
 			<div id="footer">
@@ -75,11 +73,11 @@
 		</div> <!-- wrapper -->
 		<!-- Start of StatCounter Code -->
 		<script type="text/javascript">
-		<!-- 
-		var sc_project=2102582; 
-		var sc_invisible=0; 
-		var sc_partition=19; 
-		var sc_security="268b3576"; 
+		<!--
+		var sc_project=2102582;
+		var sc_invisible=0;
+		var sc_partition=19;
+		var sc_security="268b3576";
 		//-->
 		</script>
 
