@@ -43,7 +43,7 @@
 						<tr>
 							<th scope="row">Feb 7th</th>
 							<td>Mr. David White</td>
-							<td>Mrs. Lorna Sivyor <strong>(C)</strong></td>
+							<td>Mrs. Lorna Sivyour <strong>(C)</strong></td>
 						</tr>
 						<tr class="odd">
 							<th scope="row">Feb 14th</th>
