@@ -6,7 +6,7 @@
 
 				<p class="centre">(For a long-term look at our church, see the <a href="upcoming.php">Coming Weeks page</a>)</p>
 
-				<p class="centre"><strong>Schedule for the week 14th to 21st February</strong></p>
+				<p class="centre"><strong>Schedule for the week 21st to 28th February</strong></p>
 
 				<table class="styled" summary="Schedule for events in the coming week(s)">
 					<thead>
@@ -20,16 +20,26 @@
 						<tr class="odd">
 							<th scope="row">Tuesday<br /> 10:30 A.M.</th>
 							<td>Home Group at<br />Mike &amp; Pat's</td>
-							<td>Luke 11:1-13 &amp; 15:11-32 - <br />"A Loving Father"</td>
+							<td>John 2:10-18 &amp;<br />Hebrews 2:1-18 - <br />"... my Father and your Father"</td>
 						</tr>
                          <tr>
 							<th scope="row">Tuesday<br />2:30 P.M.</th>
-							<td>Women's Fellowship:<br />Rev. Steve Lomas</td>
+							<td>Women's Fellowship:<br />Miss Pam Evans</td>
 							<td></td>
 						</tr>
 						<tr class="odd">
-							<th scope="row">Wednesday<br />3:00-4:00 P.M.</th>
-							<td>Prayer time</td>
+							<th scope="row">Wednesday<br />7:00 P.M.</th>
+							<td>Home Group at<br />David &amp; Audrey's</td>
+							<td></td>
+						</tr>
+						<tr>
+							<th scope="row">Thursday<br />2:00-4:00 P.M.</th>
+							<td>"Dabblers" Hobby Group</td>
+							<td>All welcome!</td>
+						</tr>
+						<tr class="odd">
+							<th scope="row">Friday<br />10:30 A.M.</th>
+							<td>Home Group at<br />Bryan &amp; Audrey's</td>
 							<td></td>
 						</tr>
 						<tr>
@@ -45,7 +55,7 @@
 						<tr>
 							<th scope="row">Sunday<br />10:30 A.M.<br />6:30 P.M.</th>
 							<td>Sunday Services</td>
-							<td>Communion this morning</td>
+							<td></td>
 						</tr>
 					</tbody>
 				</table>

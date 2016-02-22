@@ -12,7 +12,7 @@
 
 				<!--<h1 class="hcline"><a href="holidayclub.php">Holiday Club 2015 details and form now available!</a></h1>-->
 
-				<div class="nbox_top"><h1>Diary update - 15/02/16</h1></div>
+				<div class="nbox_top"><h1>Diary update - 22/02/16</h1></div>
 
 				<div class="nbox_content">
 					<p>I've <a href="diary.php">updated the diary</a> for the next week.</p>
