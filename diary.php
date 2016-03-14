@@ -2,11 +2,11 @@
 
 <?php include("header.php"); ?>
 			<div id="content">
-				<h1>This Fortnight's Diary</h1>
+				<h1>This Week's Diary</h1>
 
 				<p class="centre">(For a long-term look at our church, see the <a href="upcoming.php">Coming Weeks page</a>)</p>
 
-				<p class="centre"><strong>Schedule for the weeks 28th February to 13th March</strong></p>
+				<p class="centre"><strong>Schedule for the week 13th to 20th March</strong></p>
 
 				<table class="styled" summary="Schedule for events in the coming week(s)">
 					<thead>
@@ -18,74 +18,39 @@
 					</thead>
 					<tbody>
 						<tr class="odd">
-							<th scope="row">Tuesday 1st<br />2:30 P.M.</th>
-							<td>Women's Fellowship:<br />Mrs. Jean Hanson</td>
-							<td></td>
+							<th scope="row">Tuesday<br />2:30 P.M.</th>
+							<td>Women's Fellowship:<br />Miss Olive McCarten</td>
+							<td>Olive will be talking about<br />the work of the Bible Society,<br />all are welcome, men included</td>
 						</tr>
 						<tr>
-							<th scope="row">Wednesday 2nd<br />3:00-4:00 P.M.</th>
+							<th scope="row">Wednesday<br />3:00-4:00 P.M.</th>
 							<td>Prayer time</td>
 							<td></td>
 						</tr>
 						<tr class="odd">
-							<th scope="row">Friday 4th<br />4:45-5:45 P.M.</th>
-							<td>Friday Club<br />(Ages 4-7)</td>
-							<td></td>
+							<th scope="row">Thursday<br /> 7:15 P.M.</th>
+							<td><strong>Church AGM</strong></td>
+							<td>(Members only)</td>
 						</tr>
 						<tr>
-							<th scope="row">Friday 4th<br />6:00-7:00 P.M.</th>
-							<td>Friday Club<br />(Ages 8-14)</td>
-							<td></td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Sunday 6th<br />10:30 A.M.<br />6:30 P.M.</th>
-							<td><strong>Mothering Sunday Services</strong></td>
-							<td>Morning service will be led by<br />Rev. Roy Connor<br />Evening service will be led by<br />Rev. David Hill<br />Evening worship includes communion</td>
-						</tr>
-						<tr>
-							<th scope="row">Tuesday 8th<br /> 10:30 A.M.</th>
-							<td>Home Group at<br />Mike &amp; Pat's</td>
-							<td>John 4:1-10 &amp; 19-42 - <br />"Worshipping the Father"</td>
-						</tr>
-            <tr class="odd">
-							<th scope="row">Tuesday 8th<br />2:30 P.M.</th>
-							<td><strong>Women's Fellowship Anniversary</strong>:<br />Rev. Bernard Monk</td>
-							<td>All welcome, men included!</td>
-						</tr>
-						<tr>
-							<th scope="row">Tuesday 8th<br />7:00 P.M.</th>
-							<td>Pastor and Deacons</td>
-							<td></td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Wednesday 9th<br />7:00 P.M.</th>
-							<td>Home Group at<br />David &amp; Audrey's</td>
-							<td></td>
-						</tr>
-						<tr>
-							<th scope="row">Thursday 10th<br />2:00-4:00 P.M.</th>
-							<td>"Dabblers" Hobby Group</td>
-							<td>All welcome!</td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Friday 11th<br />10:30 A.M.</th>
-							<td>Home Group at<br />Bryan &amp; Audrey's</td>
-							<td></td>
-						</tr>
-						<tr>
-							<th scope="row">Friday 11th<br />4:45-5:45 P.M.</th>
+							<th scope="row">Friday<br />4:45-5:45 P.M.</th>
 							<td>Friday Club<br />(Ages 4-7)</td>
 							<td></td>
 						</tr>
 						<tr class="odd">
-							<th scope="row">Friday 11th<br />6:00-7:00 P.M.</th>
+							<th scope="row">Friday<br />6:00-7:00 P.M.</th>
 							<td>Friday Club<br />(Ages 8-14)</td>
 							<td></td>
 						</tr>
 						<tr>
-							<th scope="row">Sunday 13th<br />10:30 A.M.<br />6:30 P.M.</th>
+							<th scope="row">Saturday<br /> 9:00 A.M.</th>
+							<td><strong>Men's Breakfast</strong><br />at the Henty Arms</td>
+							<td>(Please sign up on list in foyer)</td>
+						</tr>
+						<tr class="odd">
+							<th scope="row">Sunday<br />10:30 A.M.<br />6:30 P.M.</th>
 							<td>Sunday Services</td>
-							<td></td>
+							<td>Morning worship includes communion</td>
 						</tr>
 					</tbody>
 				</table>
