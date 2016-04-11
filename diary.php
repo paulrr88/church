@@ -6,7 +6,7 @@
 
 				<p class="centre">(For a long-term look at our church, see the <a href="upcoming.php">Coming Weeks page</a>)</p>
 
-				<p class="centre"><strong>Schedule for the week 3rd to 10th April</strong></p>
+				<p class="centre"><strong>Schedule for the week 10th to 17th April</strong></p>
 
 				<table class="styled" summary="Schedule for events in the coming week(s)">
 					<thead>
@@ -18,39 +18,39 @@
 					</thead>
 					<tbody>
 						<tr class="odd">
-							<th scope="row">Tuesday<br /> 10:30 A.M.</th>
-							<td>Home Group at<br />Mike &amp; Pat's</td>
-							<td>Acts 17:1-15, 1 Thessalonians 3:1-5 - <br />"A New Church"</td>
-						</tr>
-            <tr>
 							<th scope="row">Tuesday<br />2:30 P.M.</th>
-							<td>Women's Fellowship:<br />Mr. David Napper</td>
+							<td>Women's Fellowship:<br />Rev. Paul Carter</td>
 							<td></td>
 						</tr>
-						<!--temp--><tr class="odd">
+						<!--temp--><tr>
 							<th scope="row">Tuesday<br />7:30 P.M.</th>
 							<td><strong>"Discipleship Explored"</strong></td>
 							<td>In the church</td>
 						</tr>
+						<tr class="odd">
+							<th scope="row">Wednesday<br />3:00-4:00 P.M.</th>
+							<td>Prayer time</td>
+							<td></td>
+						</tr>
 						<tr>
-							<th scope="row">Wednesday<br />7:00 P.M.</th>
-							<td>Home Group at<br />David &amp; Audrey's</td>
+							<th scope="row">Friday<br />4:45-5:45 P.M.</th>
+							<td>Friday Club<br />(Ages 4-7)</td>
 							<td></td>
 						</tr>
 						<tr class="odd">
-							<th scope="row">Thursday<br />2:00-4:00 P.M.</th>
-							<td>"Dabblers" Hobby Group</td>
-							<td>All welcome!</td>
+							<th scope="row">Friday<br />6:00-7:00 P.M.</th>
+							<td>Friday Club<br />(Ages 8-14)</td>
+							<td></td>
 						</tr>
 						<tr>
-							<th scope="row">Friday<br />10:30 A.M.</th>
-							<td>Home Group at<br />Bryan &amp; Audrey's</td>
-							<td></td>
+							<th scope="row">Saturday<br /> 8:45 A.M.</th>
+							<td><strong>Women's Breakfast</strong>:<br />Rachel Fenuga</td>
+							<td>(Ticket-holders only)</td>
 						</tr>
 						<tr class="odd">
 							<th scope="row">Sunday<br />10:30 A.M.<br />6:30 P.M.</th>
 							<td>Sunday Services</td>
-							<td></td>
+							<td>Morning worship includes communion</td>
 						</tr>
 					</tbody>
 				</table>

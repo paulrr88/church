@@ -4,7 +4,7 @@
 			<div id="content">
 				<h1>Coming Weeks</h1>
 
-				<p class="floatleft underline">Sunday Preaching Schedule Jan-Mar 2016</p> <p class="floatright underline"><strong>(C)</strong> - Communion</p>
+				<p class="floatleft underline">Sunday Preaching Schedule Apr-May 2016</p> <p class="floatright underline"><strong>(C)</strong> - Communion</p>
 
 				<table class="clear styled" summary="Schedule for who is preaching in these coming months">
 					<thead>
@@ -16,67 +16,37 @@
 					</thead>
 					<tbody>
 						<tr>
-							<th scope="row">Jan 3rd</th>
+							<th scope="row">Apr 17th</th>
 							<td>Rev. Stuart Robinson <strong>(C)</strong></td>
 							<td>Rev. Stuart Robinson</td>
 						</tr>
 						<tr class="odd">
-							<th scope="row">Jan 10th</th>
+							<th scope="row">Apr 24th</th>
 							<td>Rev. Stuart Robinson</td>
 							<td>Rev. Stuart Robinson</td>
 						</tr>
 						<tr>
-							<th scope="row">Jan 17th</th>
+							<th scope="row">May 1st</th>
 							<td>Rev. Stuart Robinson</td>
 							<td>Rev. Stuart Robinson <strong>(C)</strong></td>
 						</tr>
 						<tr class="odd">
-							<th scope="row">Jan 24th</th>
-							<td>Rev. Stuart Robinson</td>
-							<td>Rev. Stuart Robinson</td>
+							<th scope="row">May 8th</th>
+							<td>TBC</td>
+							<td>TBC</td>
 						</tr>
 						<tr>
-							<th scope="row">Jan 31st</th>
-							<td>Miss Olive McCarten</td>
-							<td>Mr. David Napper</td>
-						</tr>
-						<tr>
-							<th scope="row">Feb 7th</th>
-							<td>Mr. David White</td>
-							<td>Mrs. Lorna Sivyour <strong>(C)</strong></td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Feb 14th</th>
-							<td>Rev. Stuart Robinson</td>
-							<td>Rev. Stuart Robinson</td>
-						</tr>
-						<tr>
-							<th scope="row">Feb 21st</th>
+							<th scope="row">May 15th</th>
 							<td>Rev. Stuart Robinson <strong>(C)</strong></td>
 							<td>Rev. Stuart Robinson</td>
 						</tr>
 						<tr class="odd">
-							<th scope="row">Feb 28th</th>
+							<th scope="row">May 22nd</th>
 							<td>Rev. Stuart Robinson</td>
-							<td>Rev. Stuart Robinson</td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Mar 6th</th>
-							<td>Rev. Roy Connor</td>
-							<td>Rev. David Hill <strong>(C)</strong></td>
-						</tr>
-						<tr>
-							<th scope="row">Mar 13th</th>
-							<td>Rev. Stuart Robinson</td>
-							<td>Rev. Stuart Robinson</td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Mar 20th</th>
-							<td>Rev. Stuart Robinson <strong>(C)</strong></td>
 							<td>Rev. Stuart Robinson</td>
 						</tr>
 						<tr>
-							<th scope="row">Mar 27th</th>
+							<th scope="row">May 29th</th>
 							<td>Rev. Stuart Robinson</td>
 							<td>Rev. Stuart Robinson</td>
 						</tr>
