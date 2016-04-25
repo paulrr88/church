@@ -12,22 +12,10 @@
 
 				<!--<h1 class="hcline"><a href="holidayclub.php">Holiday Club 2015 details and form now available!</a></h1>-->
 
-				<div class="nbox_top"><h1>Diary update - 17/04/16</h1></div>
+				<div class="nbox_top"><h1>Holiday Club dates 2016</h1></div>
 
 				<div class="nbox_content">
-					<p>I've <a href="diary.php">updated the diary</a> for the week!</p>
-
-					<p>- Paul</p>
-				</div>
-
-				<div class="nbox_bottom"></div>
-
-				<div class="nbox_top"><h1>Holiday Club dates! - 16/11/15</h1></div>
-
-				<div class="nbox_content">
-					<p>The Holiday Club page has been <a href="holidayclub.php">updated with the dates for next year's club</a>, for your diary!</p>
-
-					<p>- Paul</p>
+					<p>The Holiday Club page has been <a href="holidayclub.php">updated with the dates for this year's club</a>, for your diary!</p>
 				</div>
 
 				<div class="nbox_bottom"></div>
