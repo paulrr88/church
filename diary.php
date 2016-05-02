@@ -6,7 +6,7 @@
 
 				<p class="centre">(For a long-term look at our church, see the <a href="upcoming.php">Coming Weeks page</a>)</p>
 
-				<p class="centre"><strong>Schedule for the week 24th April to 1st May</strong></p>
+				<p class="centre"><strong>Schedule for the week 1st to 8th May</strong></p>
 
 				<table class="styled" summary="Schedule for events in the coming week(s)">
 					<thead>
