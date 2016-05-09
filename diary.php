@@ -6,7 +6,7 @@
 
 				<p class="centre">(For a long-term look at our church, see the <a href="upcoming.php">Coming Weeks page</a>)</p>
 
-				<p class="centre"><strong>Schedule for the week 1st to 8th May</strong></p>
+				<p class="centre"><strong>Schedule for the week 8th to 15th May</strong></p>
 
 				<table class="styled" summary="Schedule for events in the coming week(s)">
 					<thead>
@@ -18,9 +18,9 @@
 					</thead>
 					<tbody>
 						<tr class="odd">
-							<th scope="row">Tuesday<br /> 10:30 A.M.</th>
-							<td>Home Group at<br />Mike &amp; Pat's</td>
-							<td>1 Thessalonians 1:1-2:16 - <br />"A Model Church"</td>
+							<th scope="row">Tuesday<br />2:30 P.M.</th>
+							<td>Women's Fellowship:<br />Canon M. Pargeter</td>
+							<td></td>
 						</tr>
 						<!--temp--><tr>
 							<th scope="row">Tuesday<br />7:30 P.M.</th>
@@ -28,18 +28,8 @@
 							<td>In the church</td>
 						</tr>
 						<tr class="odd">
-							<th scope="row">Wednesday<br />7:00 P.M.</th>
-							<td>Home Group at<br />David &amp; Audrey's</td>
-							<td></td>
-						</tr>
-						<tr>
-							<th scope="row">Thursday<br />2:00-4:00 P.M.</th>
-							<td>"Dabblers" Hobby Group</td>
-							<td>All welcome!</td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Friday<br />10:30 A.M.</th>
-							<td>Home Group at<br />Bryan &amp; Audrey's</td>
+							<th scope="row">Wednesday<br />3:00-4:00 P.M.</th>
+							<td>Prayer time</td>
 							<td></td>
 						</tr>
 						<tr>
@@ -53,9 +43,9 @@
 							<td></td>
 						</tr>
 						<tr>
-							<th scope="row">Sunday<br />10:30 A.M.<br />6:30 P.M.</th>
+							<th scope="row">Pentecost Sunday<br />10:30 A.M.<br />6:30 P.M.</th>
 							<td>Sunday Services</td>
-							<td>Morning service will be led by<br />Mr. Gerald Thompson<br />This evening's worship will be<br />a time of fellowship (no speaker)</td>
+							<td>Joint service with St. Andrew's in the evening</td>
 						</tr>
 					</tbody>
 				</table>
