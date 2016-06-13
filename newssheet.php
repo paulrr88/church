@@ -8,19 +8,13 @@
 					<a href="holidayclub.php"><strong>Holiday Clubs</strong></a> - <a href="visitors_community.php">Community Outreach</a> - <a href="newssheet.php"><strong>This Week's News Sheet</strong></a></p>
 				</div>
 
-				<h1>Welcome.</h1>
+				<br /><br />
 
-				<p>Welcome to the official website for Ferring Baptist Church! Visitors can find information about the church on <a href="http://localhost/church/visitors_welcome.php">the visitors pages</a>. For people who already come to the church, you can find information on <a href="diary.php">current events and the weekly schedule</a> for them, as well as information on <a href="upcoming.php">coming Sunday services</a>. We hope you find this site useful!</p>
+				<h1>This Week's News Sheet</h1>
 
-				<!--<h1 class="hcline"><a href="holidayclub.php">Holiday Club 2015 details and form now available!</a></h1>-->
+				<p class="centre">(Click image to make larger)</p>
 
-				<div class="nbox_top"><h1>Holiday Club dates 2016</h1></div>
-
-				<div class="nbox_content">
-					<p>The Holiday Club page has been <a href="holidayclub.php">updated with the dates for this year's club</a>, for your diary!</p>
-				</div>
-
-				<div class="nbox_bottom"></div>
+				<a href="images/newssheetfront.jpg"><img src="images/newssheetfront.jpg" width="600" style="margin-left: 75px;" /></a>
 
 			</div>
 			<div id="footer">
