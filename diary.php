@@ -6,7 +6,7 @@
 
 				<p class="centre">(For a long-term look at our church, see the <a href="upcoming.php">Coming Weeks page</a>)</p>
 
-				<p class="centre"><strong>Schedule for the week 12th to 19th June</strong></p>
+				<p class="centre"><strong>Schedule for the week 19th to 26th June</strong></p>
 
 				<table class="styled" summary="Schedule for events in the coming week(s)">
 					<thead>
@@ -18,23 +18,13 @@
 					</thead>
 					<tbody>
 						<tr class="odd">
-							<th scope="row">Wednesday<br />7:00 P.M.</th>
-							<td>Home Group at<br />David &amp; Audrey's</td>
-							<td></td>
+							<th scope="row">Tuesday<br /> 10:30 A.M.</th>
+							<td>Home Group at<br />Mike &amp; Pat's</td>
+							<td>1 Thessalonians 5:12-28 - <br />"How to Live"</td>
 						</tr>
 						<tr>
-							<th scope="row">Thursday<br />2:00-4:00 P.M.</th>
-							<td>"Dabblers" Hobby Group</td>
-							<td>All welcome!</td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Thursday<br /> 7:15 P.M.</th>
-							<td><strong>Church Meeting</strong></td>
-							<td>(Members only)</td>
-						</tr>
-						<tr>
-							<th scope="row">Friday<br />10:30 A.M.</th>
-							<td>Home Group at<br />Bryan &amp; Audrey's</td>
+							<th scope="row">Wednesday<br />3:00-4:00 P.M.</th>
+							<td>Prayer time</td>
 							<td></td>
 						</tr>
 						<tr class="odd">
@@ -48,14 +38,9 @@
 							<td></td>
 						</tr>
 						<tr class="odd">
-							<th scope="row">Saturday<br /> 9:00 A.M.</th>
-							<td><strong>Men's Breakfast</strong><br />at the Henty Arms</td>
-							<td>(Please sign up on list in foyer)</td>
-						</tr>
-						<tr>
 							<th scope="row">Sunday<br />10:30 A.M.<br />6:30 P.M.</th>
 							<td>Sunday Services</td>
-							<td>Morning worship includes communion</td>
+							<td></td>
 						</tr>
 					</tbody>
 				</table>
