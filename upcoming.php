@@ -4,7 +4,7 @@
 			<div id="content">
 				<h1>Coming Weeks</h1>
 
-				<p class="floatleft underline">Sunday Preaching Schedule May-Jun 2016</p> <p class="floatright underline"><strong>(C)</strong> - Communion</p>
+				<p class="floatleft underline">Sunday Preaching Schedule Jul 2016</p> <p class="floatright underline"><strong>(C)</strong> - Communion</p>
 
 				<table class="clear styled" summary="Schedule for who is preaching in these coming months">
 					<thead>
@@ -16,47 +16,27 @@
 					</thead>
 					<tbody>
 						<tr>
-							<th scope="row">May 1st</th>
-							<td>Rev. Stuart Robinson</td>
-							<td>Rev. Stuart Robinson <strong>(C)</strong></td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">May 8th</th>
-							<td>Mr. Gerald Thompson</td>
-							<td>(No speaker, time of fellowship)</td>
-						</tr>
-						<tr>
-							<th scope="row">May 15th</th>
-							<td>Rev. Stuart Robinson <strong>(C)</strong></td>
-							<td>Rev. Stuart Robinson</td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">May 22nd</th>
-							<td>Rev. Stuart Robinson</td>
-							<td>Rev. Stuart Robinson</td>
-						</tr>
-						<tr>
-							<th scope="row">May 29th</th>
-							<td>Rev. Stuart Robinson</td>
-							<td>Rev. Stuart Robinson</td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Jun 5th</th>
-							<td>Rev. Paul Carter</td>
+							<th scope="row">Jul 3rd</th>
+							<td>Mr. David White</td>
 							<td>Rev. Paul Carter <strong>(C)</strong></td>
 						</tr>
+						<tr class="odd">
+							<th scope="row">Jul 10th</th>
+							<td>Mr. David Napper</td>
+							<td>Mrs. Lorna Sivyour</td>
+						</tr>
 						<tr>
-							<th scope="row">Jun 12th</th>
-							<td>Rev. Stuart Robinson</td>
-							<td>Rev. Stuart Robinson</td>
+							<th scope="row">Jul 17th</th>
+							<td>Mr. Timothy Ogutu <strong>(C)</strong></td>
+							<td>Fellowship Evening</td>
 						</tr>
 						<tr class="odd">
-							<th scope="row">Jun 19th</th>
-							<td>Rev. Stuart Robinson <strong>(C)</strong></td>
-							<td>Rev. Stuart Robinson</td>
+							<th scope="row">Jul 24th</th>
+							<td>Miss Judy Cook</td>
+							<td>Miss Judy Cook<br />at Angmering Baptist<br />(no service here)</td>
 						</tr>
 						<tr>
-							<th scope="row">Jun 26th</th>
+							<th scope="row">Jul 31st</th>
 							<td>Rev. Stuart Robinson</td>
 							<td>Rev. Stuart Robinson</td>
 						</tr>
