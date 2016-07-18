@@ -16,6 +16,8 @@
 
 				<a href="images/newssheetfront.jpg"><img src="images/newssheetfront.jpg" width="600" style="margin-left: 75px;" /></a>
 
+				<a href="images/newssheetinside.jpg"><img src="images/newssheetinside.jpg" width="600" style="margin-left: 75px;" /></a>
+
 			</div>
 			<div id="footer">
 				<p>&copy; (Copyright) 2006-<?php echo date('Y'); ?> Ferring Baptist Church :: Design by Paul Robinson</p>

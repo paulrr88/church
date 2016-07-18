@@ -2,11 +2,11 @@
 
 <?php include("header.php"); ?>
 			<div id="content">
-				<h1>Three Week Diary</h1>
+				<h1>This Week's Diary</h1>
 
 				<p class="centre">(For a long-term look at our church, see the <a href="upcoming.php">Coming Weeks page</a>)</p>
 
-				<p class="centre"><strong>Schedule for the weeks 26th June to 17th July</strong></p>
+				<p class="centre"><strong>Schedule for the week 17th to 24th July</strong></p>
 
 				<table class="styled" summary="Schedule for events in the coming week(s)">
 					<thead>
@@ -17,99 +17,20 @@
 						</tr>
 					</thead>
 					<tbody>
-						<tr class="odd">
-							<th scope="row">Tuesday 28th<br /> 10:30 A.M.</th>
-							<td>Home Group at<br />Mike &amp; Pat's</td>
-							<td></td>
-						</tr>
 						<tr>
-							<th scope="row">Wednesday 29th<br />7:00 P.M.</th>
-							<td>Home Group at<br />David &amp; Audrey's</td>
-							<td></td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Thursday 30th<br />2:00-4:00 P.M.</th>
-							<td>"Dabblers" Hobby Group</td>
-							<td>All welcome!</td>
-						</tr>
-						<tr>
-							<th scope="row">Friday 1st<br />10:30 A.M.</th>
-							<td>Home Group at<br />Bryan &amp; Audrey's</td>
-							<td></td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Friday 1st<br />4:45-5:45 P.M.</th>
-							<td>Friday Club<br />(Ages 4-7) <strong>ONLY</strong></td>
-							<td>No Juniors tonight</td>
-						</tr>
-						<tr>
-							<th scope="row">Saturday 2nd<br /> 8:45 A.M.</th>
-							<td><strong>Women's Breakfast</strong>:<br />Chris Ray</td>
-							<td>(Ticket-holders only)</td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Sunday 3rd<br />10:30 A.M.<br />6:30 P.M.</th>
-							<td>Sunday Services</td>
-							<td>Morning worship will be led by<br />
-							Mr. David White<br />
-							Evening worship will be led by<br />
-							Rev. Paul Carter<br />
-							Evening worship includes communion</td>
-						</tr>
-						<tr>
-							<th scope="row">Wednesday 6th<br />3:00-4:00 P.M.</th>
+							<th scope="row">Wednesday<br />3:00-4:00 P.M.</th>
 							<td>Prayer time</td>
 							<td></td>
 						</tr>
 						<tr class="odd">
-							<th scope="row">Friday 8th<br />4:45-5:45 P.M.</th>
-							<td>Friday Club<br />(Ages 4-7)</td>
-							<td></td>
+							<th scope="row">Saturday<br /> 9:00 A.M.</th>
+							<td><strong>Men's Breakfast</strong><br />at the Henty Arms</td>
+							<td>(Please sign up on list in foyer)</td>
 						</tr>
 						<tr>
-							<th scope="row">Friday 8th<br />6:00-7:00 P.M.</th>
-							<td>Friday Club<br />(Ages 8-14)</td>
-							<td></td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Sunday 10th<br />10:30 A.M.<br />6:30 P.M.</th>
-							<td>Sunday Services</td>
-							<td>Morning worship will be led by<br />
-							Mr. David Napper<br />
-							Evening worship will be led by<br />
-							Mrs. Lorna Sivyour</td>
-						</tr>
-						<tr>
-							<th scope="row">Tuesday 12th<br /> 10:30 A.M.</th>
-							<td>Home Group at<br />Mike &amp; Pat's</td>
-							<td></td>
-						</tr>
-            <tr class="odd">
-							<th scope="row">Tuesday 12th<br />2:30 P.M.</th>
-							<td>Women's Fellowship:<br />Tea and Chat (Bring &amp; Buy)</td>
-							<td></td>
-						</tr>
-						<tr>
-							<th scope="row">Thursday 14th<br />2:00-4:00 P.M.</th>
-							<td>"Dabblers" Hobby Group</td>
-							<td>All welcome!</td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Friday 15th<br />4:45-5:45 P.M.</th>
-							<td>Friday Club<br />(Ages 4-7)</td>
-							<td></td>
-						</tr>
-						<tr>
-							<th scope="row">Friday 15th<br />6:00-7:00 P.M.</th>
-							<td>Friday Club<br />(Ages 8-14)</td>
-							<td></td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Sunday 17th<br />10:30 A.M.<br />6:30 P.M.</th>
-							<td>Sunday Services</td>
-							<td>Morning worship will be led by<br />
-							Mr. Timothy Ogutu<br />
-							Evening worship will be<br />a Fellowship Evening</td>
+							<th scope="row">Sunday<br />10:30 A.M.</th>
+							<td><strong>Sunday Service with<br />Judy Cook</strong></td>
+							<td>No evening service,<br />Judy Cook at Angmering Baptist Church</td>
 						</tr>
 					</tbody>
 				</table>
