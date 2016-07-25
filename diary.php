@@ -6,7 +6,7 @@
 
 				<p class="centre">(For a long-term look at our church, see the <a href="upcoming.php">Coming Weeks page</a>)</p>
 
-				<p class="centre"><strong>Schedule for the week 17th to 24th July</strong></p>
+				<p class="centre"><strong>Schedule for the week 24th to 31st July</strong></p>
 
 				<table class="styled" summary="Schedule for events in the coming week(s)">
 					<thead>
@@ -17,20 +17,10 @@
 						</tr>
 					</thead>
 					<tbody>
-						<tr>
-							<th scope="row">Wednesday<br />3:00-4:00 P.M.</th>
-							<td>Prayer time</td>
-							<td></td>
-						</tr>
 						<tr class="odd">
-							<th scope="row">Saturday<br /> 9:00 A.M.</th>
-							<td><strong>Men's Breakfast</strong><br />at the Henty Arms</td>
-							<td>(Please sign up on list in foyer)</td>
-						</tr>
-						<tr>
-							<th scope="row">Sunday<br />10:30 A.M.</th>
-							<td><strong>Sunday Service with<br />Judy Cook</strong></td>
-							<td>No evening service,<br />Judy Cook at Angmering Baptist Church</td>
+							<th scope="row">Sunday<br />10:30 A.M.<br />6:30 P.M.</th>
+							<td>Sunday Services</td>
+							<td></td>
 						</tr>
 					</tbody>
 				</table>
