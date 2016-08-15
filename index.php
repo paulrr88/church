@@ -14,13 +14,13 @@
 
 				<!--<h1 class="hcline"><a href="holidayclub.php">Holiday Club 2016 details and form now available!</a></h1>-->
 
-				<!--<div class="nbox_top"><h1>Holiday Club dates 2016</h1></div>
+				<div class="nbox_top"><h1>Holiday Club 2016 photos!</h1></div>
 
 				<div class="nbox_content">
-					<p>The Holiday Club page has been <a href="holidayclub.php">updated with the dates for this year's club</a>, for your diary!</p>
+					<p>The Holiday Club page now has the <a href="holidayclub.php">photos from this year's Holiday Club</a>, Rocky's Plaice!</p>
 				</div>
 
-				<div class="nbox_bottom"></div>-->
+				<div class="nbox_bottom"></div>
 
 			</div>
 			<div id="footer">
