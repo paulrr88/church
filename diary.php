@@ -6,7 +6,7 @@
 
 				<p class="centre">(For a long-term look at our church, see the <a href="upcoming.php">Coming Weeks page</a>)</p>
 
-				<p class="centre"><strong>Schedule for the week 28th August to 4th September</strong></p>
+				<p class="centre"><strong>Schedule for the week 4th to 11th September</strong></p>
 
 				<table class="styled" summary="Schedule for events in the coming week(s)">
 					<thead>
@@ -18,14 +18,30 @@
 					</thead>
 					<tbody>
 						<tr class="odd">
-							<th scope="row">Wednesday<br />3:00-4:00 P.M.</th>
-							<td>Prayer time</td>
+							<th scope="row">Wednesday<br />7:00 P.M.</th>
+							<td>Home Group at<br />David &amp; Audrey's</td>
 							<td></td>
 						</tr>
 						<tr>
+							<th scope="row">Thursday<br /> 10:30 A.M.</th>
+							<td>Home Group at<br />Mike &amp; Pat's</td>
+							<td>John 3:16-21; Romans 5:6-11;<br />1 John 4:7-15 - <br />"The Source of Jesus' Compassion"</td>
+						</tr>
+						<tr class="odd">
+							<th scope="row">Thursday<br />2:00-4:00 P.M.</th>
+							<td>"Dabblers" Hobby Group</td>
+							<td>All welcome!</td>
+						</tr>
+						<tr>
+							<th scope="row">Friday<br />10:30 A.M.</th>
+							<td>Home Group at<br />Bryan &amp; Audrey's</td>
+							<td></td>
+						</tr>
+						<tr class="odd">
 							<th scope="row">Sunday<br />10:30 A.M.<br />6:30 P.M.</th>
 							<td>Sunday Services</td>
-							<td>Evening worship includes communion</td>
+							<td>Evening service will be led by<br />
+							Mr. David Napper</td>
 						</tr>
 					</tbody>
 				</table>
