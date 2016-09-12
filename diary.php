@@ -6,7 +6,7 @@
 
 				<p class="centre">(For a long-term look at our church, see the <a href="upcoming.php">Coming Weeks page</a>)</p>
 
-				<p class="centre"><strong>Schedule for the week 4th to 11th September</strong></p>
+				<p class="centre"><strong>Schedule for the week 11th to 18th September</strong></p>
 
 				<table class="styled" summary="Schedule for events in the coming week(s)">
 					<thead>
@@ -18,30 +18,40 @@
 					</thead>
 					<tbody>
 						<tr class="odd">
-							<th scope="row">Wednesday<br />7:00 P.M.</th>
-							<td>Home Group at<br />David &amp; Audrey's</td>
+							<th scope="row">Tuesday<br />2:15 P.M.</th>
+							<td>Women's Fellowship:<br />
+								Rev. Stuart Robinson</td>
 							<td></td>
 						</tr>
 						<tr>
-							<th scope="row">Thursday<br /> 10:30 A.M.</th>
-							<td>Home Group at<br />Mike &amp; Pat's</td>
-							<td>John 3:16-21; Romans 5:6-11;<br />1 John 4:7-15 - <br />"The Source of Jesus' Compassion"</td>
+							<th scope="row">Wednesday<br />3:00-4:00 P.M.</th>
+							<td>Prayer time</td>
+							<td></td>
 						</tr>
 						<tr class="odd">
-							<th scope="row">Thursday<br />2:00-4:00 P.M.</th>
-							<td>"Dabblers" Hobby Group</td>
-							<td>All welcome!</td>
+							<th scope="row">Thursday<br /> 7:15 P.M.</th>
+							<td><strong>Church Meeting</strong></td>
+							<td>(Members only)</td>
 						</tr>
 						<tr>
-							<th scope="row">Friday<br />10:30 A.M.</th>
-							<td>Home Group at<br />Bryan &amp; Audrey's</td>
+							<th scope="row">Friday<br />4:45-5:45 P.M.</th>
+							<td>Friday Club<br />(Ages 4-7)</td>
 							<td></td>
+						</tr>
+						<tr class="odd">
+							<th scope="row">Friday<br />6:00-7:00 P.M.</th>
+							<td>Friday Club<br />(Ages 8-14)</td>
+							<td></td>
+						</tr>
+						<tr>
+							<th scope="row">Saturday<br /> 9:00 A.M.</th>
+							<td><strong>Men's Breakfast</strong><br />at the Henty Arms</td>
+							<td>(Please sign up on list in foyer)</td>
 						</tr>
 						<tr class="odd">
 							<th scope="row">Sunday<br />10:30 A.M.<br />6:30 P.M.</th>
 							<td>Sunday Services</td>
-							<td>Evening service will be led by<br />
-							Mr. David Napper</td>
+							<td></td>
 						</tr>
 					</tbody>
 				</table>
