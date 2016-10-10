@@ -6,7 +6,7 @@
 
 				<p class="centre">(For a long-term look at our church, see the <a href="upcoming.php">Coming Weeks page</a>)</p>
 
-				<p class="centre"><strong>Schedule for the week 2nd to 9th October</strong></p>
+				<p class="centre"><strong>Schedule for the week 9th to 16th October</strong></p>
 
 				<table class="styled" summary="Schedule for events in the coming week(s)">
 					<thead>
@@ -18,45 +18,34 @@
 					</thead>
 					<tbody>
 						<tr class="odd">
-							<th scope="row">Tuesday<br />2:30 P.M.</th>
-							<td>Women's Fellowship:<br />Mrs. Pam Weaver</td>
+							<th scope="row">Tuesday<br />2:15 P.M.</th>
+							<td>Women's Fellowship:<br />Major Lillian Wilson</td>
 							<td></td>
 						</tr>
 						<tr>
-							<th scope="row">Wednesday<br />7:00 P.M.</th>
-							<td>Home Group at<br />David &amp; Audrey's</td>
+							<th scope="row">Wednesday<br />3:00-4:00 P.M.</th>
+							<td>Prayer time</td>
 							<td></td>
 						</tr>
 						<tr class="odd">
-							<th scope="row">Thursday<br />2:00-4:00 P.M.</th>
-							<td>"Dabblers" Hobby Group</td>
-							<td>All welcome!</td>
+							<th scope="row">Thursday<br /> 10:30 A.M.</th>
+							<td>Home Group at<br />Mike &amp; Pat's</td>
+							<td>Matthew 14:15-21; 15:32-39 - <br />"A Provider for Hungry People"</td>
 						</tr>
 						<tr>
-							<th scope="row">Friday<br />10:30 A.M.</th>
-							<td>Home Group at<br />Bryan &amp; Audrey's</td>
-							<td></td>
-						</tr>
-						<tr class="odd">
 							<th scope="row">Friday<br />4:45-5:45 P.M.</th>
 							<td>Friday Club<br />(Ages 4-7)</td>
 							<td></td>
 						</tr>
-						<tr>
+						<tr class="odd">
 							<th scope="row">Friday<br />6:00-7:00 P.M.</th>
 							<td>Friday Club<br />(Ages 8-11)</td>
 							<td></td>
 						</tr>
-						<tr class="odd">
-							<th scope="row">Saturday<br /> 8:45 A.M.</th>
-							<td><strong>Women's Breakfast</strong>:<br />Lesley Shayler</td>
-							<td>(Ticket-holders only)</td>
-						</tr>
 						<tr>
 							<th scope="row">Sunday<br />10:30 A.M.<br />6:30 P.M.</th>
 							<td>Sunday Services</td>
-							<td>N.B. evening is a fellowship evening<br />
-								(pastor at SEBA celebration)</td>
+							<td></td>
 						</tr>
 					</tbody>
 				</table>
