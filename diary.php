@@ -6,7 +6,7 @@
 
 				<p class="centre">(For a long-term look at our church, see the <a href="upcoming.php">Coming Weeks page</a>)</p>
 
-				<p class="centre"><strong>Schedule for the week 9th to 16th October</strong></p>
+				<p class="centre"><strong>Schedule for the week 16th to 23rd October</strong></p>
 
 				<table class="styled" summary="Schedule for events in the coming week(s)">
 					<thead>
@@ -18,34 +18,47 @@
 					</thead>
 					<tbody>
 						<tr class="odd">
-							<th scope="row">Tuesday<br />2:15 P.M.</th>
-							<td>Women's Fellowship:<br />Major Lillian Wilson</td>
+							<th scope="row">Tuesday<br />2:30 P.M.</th>
+							<td>Women's Fellowship:<br />Mr. Gerald Thompson</td>
 							<td></td>
 						</tr>
 						<tr>
-							<th scope="row">Wednesday<br />3:00-4:00 P.M.</th>
-							<td>Prayer time</td>
+							<th scope="row">Wednesday<br />7:00 P.M.</th>
+							<td>Home Group at<br />David &amp; Audrey's</td>
 							<td></td>
 						</tr>
 						<tr class="odd">
-							<th scope="row">Thursday<br /> 10:30 A.M.</th>
-							<td>Home Group at<br />Mike &amp; Pat's</td>
-							<td>Matthew 14:15-21; 15:32-39 - <br />"A Provider for Hungry People"</td>
+							<th scope="row">Thursday<br />2:00-4:00 P.M.</th>
+							<td>"Dabblers" Hobby Group</td>
+							<td>All welcome!</td>
 						</tr>
 						<tr>
+							<th scope="row">Friday<br />10:30 A.M.</th>
+							<td>Home Group at<br />Bryan &amp; Audrey's</td>
+							<td></td>
+						</tr>
+						<tr class="odd">
 							<th scope="row">Friday<br />4:45-5:45 P.M.</th>
 							<td>Friday Club<br />(Ages 4-7)</td>
 							<td></td>
 						</tr>
-						<tr class="odd">
+						<tr>
 							<th scope="row">Friday<br />6:00-7:00 P.M.</th>
 							<td>Friday Club<br />(Ages 8-11)</td>
 							<td></td>
 						</tr>
+						<tr class="odd">
+							<th scope="row">Saturday<br /> 9:00 A.M.</th>
+							<td><strong>Men's Breakfast</strong><br />at the Henty Arms</td>
+							<td>(Please sign up on list in foyer)</td>
+						</tr>
 						<tr>
 							<th scope="row">Sunday<br />10:30 A.M.<br />6:30 P.M.</th>
-							<td>Sunday Services</td>
-							<td></td>
+							<td><strong>Church Anniversary Services</strong></td>
+							<td>Both services will be led by<br />
+								Rev. David Hill<br />
+								Morning worship includes communion<br />
+								Fellowship tea at 5:15pm<br />(please sign up on list in foyer)</td>
 						</tr>
 					</tbody>
 				</table>
