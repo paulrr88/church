@@ -5,9 +5,11 @@
 
 				<p>Every year in August we hold a Summer Holiday Club for <strong>children of ages 5-11</strong>.</p>
 
+				<br />
+
 				<!-- CLUB DATES -->
 
-					<!--<p><em><strong><span style="color: red;">This year’s Holiday Club will be held Tuesday 9th to Friday 12th August</span></strong></em>.</p><br /><br />-->
+					<p><em><strong><span style="color: red;">This year’s Holiday Club will be held Tuesday 8th to Friday 11th August</span></strong></em>.</p><br /><br />
 
 				<!-- END -->
 
