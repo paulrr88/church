@@ -2,11 +2,11 @@
 
 <?php include("header.php"); ?>
 			<div id="content">
-				<h1>This Week's Diary</h1>
+				<h1>Two Week Diary</h1>
 
 				<p class="centre">(For a long-term look at our church, see the <a href="upcoming.php">Coming Weeks page</a>)</p>
 
-				<p class="centre"><strong>Schedule for the week 16th to 23rd October</strong></p>
+				<p class="centre"><strong>Schedule for the week 23rd October to 6th November</strong></p>
 
 				<table class="styled" summary="Schedule for events in the coming week(s)">
 					<thead>
@@ -18,47 +18,60 @@
 					</thead>
 					<tbody>
 						<tr class="odd">
-							<th scope="row">Tuesday<br />2:30 P.M.</th>
-							<td>Women's Fellowship:<br />Mr. Gerald Thompson</td>
+							<th scope="row">Tuesday 25th<br />2:30 P.M.</th>
+							<td>Women's Fellowship:<br />Canon Muriel Pargeter</td>
 							<td></td>
 						</tr>
 						<tr>
-							<th scope="row">Wednesday<br />7:00 P.M.</th>
+							<th scope="row">Wednesday 26th<br />3:00-4:00 P.M.</th>
+							<td>Prayer time</td>
+							<td></td>
+						</tr>
+						<tr class="odd">
+							<th scope="row">Thursday 27th<br /> 10:30 A.M.</th>
+							<td>Home Group at<br />Mike &amp; Pat's</td>
+							<td>Matthew 14:13-14, 20:29-34<br />
+								&amp; Mark 1:40-45 - <br />"The Great Healer"</td>
+						</tr>
+						<tr>
+							<th scope="row">Sunday 30th<br />10:30 A.M.<br />6:30 P.M.</th>
+							<td>Sunday Services</td>
+							<td></td>
+						</tr>
+						<tr class="odd">
+							<th scope="row">Tuesday 1st<br />2:30 P.M.</th>
+							<td>Women's Fellowship:<br />Mrs. Jean Hanson</td>
+							<td></td>
+						</tr>
+						<tr>
+							<th scope="row">Wednesday 2nd<br />7:00 P.M.</th>
 							<td>Home Group at<br />David &amp; Audrey's</td>
 							<td></td>
 						</tr>
 						<tr class="odd">
-							<th scope="row">Thursday<br />2:00-4:00 P.M.</th>
+							<th scope="row">Thursday 3rd<br />2:00-4:00 P.M.</th>
 							<td>"Dabblers" Hobby Group</td>
 							<td>All welcome!</td>
 						</tr>
 						<tr>
-							<th scope="row">Friday<br />10:30 A.M.</th>
+							<th scope="row">Friday 4th<br />10:30 A.M.</th>
 							<td>Home Group at<br />Bryan &amp; Audrey's</td>
 							<td></td>
 						</tr>
 						<tr class="odd">
-							<th scope="row">Friday<br />4:45-5:45 P.M.</th>
+							<th scope="row">Friday 4th<br />4:45-5:45 P.M.</th>
 							<td>Friday Club<br />(Ages 4-7)</td>
 							<td></td>
 						</tr>
 						<tr>
-							<th scope="row">Friday<br />6:00-7:00 P.M.</th>
+							<th scope="row">Friday 4th<br />6:00-7:00 P.M.</th>
 							<td>Friday Club<br />(Ages 8-11)</td>
 							<td></td>
 						</tr>
 						<tr class="odd">
-							<th scope="row">Saturday<br /> 9:00 A.M.</th>
-							<td><strong>Men's Breakfast</strong><br />at the Henty Arms</td>
-							<td>(Please sign up on list in foyer)</td>
-						</tr>
-						<tr>
-							<th scope="row">Sunday<br />10:30 A.M.<br />6:30 P.M.</th>
-							<td><strong>Church Anniversary Services</strong></td>
-							<td>Both services will be led by<br />
-								Rev. David Hill<br />
-								Morning worship includes communion<br />
-								Fellowship tea at 5:15pm<br />(please sign up on list in foyer)</td>
+							<th scope="row">Sunday 6th<br />10:30 A.M.<br />6:30 P.M.</th>
+							<td>Sunday Services</td>
+							<td>Evening worship includes communion</td>
 						</tr>
 					</tbody>
 				</table>
