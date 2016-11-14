@@ -3,22 +3,22 @@
 <?php include("header.php"); ?>
 			<div id="content">
 				<h1>Inquiries</h1>
-								
+
 				<p>If you have any inquiries about the church, or notice any problems with the site, please let me know at the following address:</p>
-				
+
 				<!--<p><strong>Please note:</strong> We do not rent the church hall out to organisations due to...-->
-				
+
 				<p><strong><a href="mailto:paul@ferringbaptist.org.uk">paul@ferringbaptist.org.uk</a></strong></p>
-				
+
 				<p>If you have a problem to report, please include details if you can, such as the browser and browser version you are using (for instance, Internet Explorer 6.0), the details of which can be found under the Help menu in your browser if you click About. Please be as specific as possible as to where the problem is, what you were doing at the time, your monitor resolution etc.</p>
-				
+
 				<p>Thanks!</p>
-				
+
 				<h2>About hall hire</h2>
-				
+
 				<p>We unfortunately do not have a hall that is separated from the rest of the church. This means that, for reasons of insurance, <strong>we are not able to rent out our hall</strong>.
 
-				<p>However, <strong>you can try the Glebelands Centre, which is next door to us</strong>. They can be contacted on <strong>01903 700539</strong> or emailed at <strong>info@gcentre.co.uk</strong>.</p>
+				<p>However, <strong>St. Andrew's Church does have a church hall that can be booked</strong>, please <a href="http://www.standrewsferring.org.uk/contacts.html"><strong>get in contact at their website</strong></a>. There's also <strong>the Glebelands Centre, which is next door to us</strong>. They can be contacted on <strong>01903 700539</strong> or emailed at <strong>info@gcentre.co.uk</strong>.</p>
 			</div>
 			<div id="footer">
 				<p>&copy; (Copyright) 2006-<?php echo date('Y'); ?> Ferring Baptist Church :: Design by Paul Robinson</p>
