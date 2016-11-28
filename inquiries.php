@@ -18,7 +18,7 @@
 
 				<p>We unfortunately do not have a hall that is separated from the rest of the church. This means that, for reasons of insurance, <strong>we are not able to rent out our hall</strong>.
 
-				<p>However, <strong>St. Andrew's Church does have a church hall that can be booked</strong>, please <a href="http://www.standrewsferring.org.uk/contacts.html"><strong>get in contact at their website</strong></a>. There's also <strong>the Glebelands Centre, which is next door to us</strong>. They can be contacted on <strong>01903 700539</strong> or emailed at <strong>info@gcentre.co.uk</strong>.</p>
+				<p>However, <strong>St. Andrew's Church does have a church hall that can be booked</strong>, please <a href="http://www.standrewsferring.org.uk/contacts.html"><strong>get in contact at their website</strong></a>. There's also <strong>the Glebelands Centre, which is next door to us</strong>. They can be contacted on <strong>01903 700539</strong>.</p>
 			</div>
 			<div id="footer">
 				<p>&copy; (Copyright) 2006-<?php echo date('Y'); ?> Ferring Baptist Church :: Design by Paul Robinson</p>

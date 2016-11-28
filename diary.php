@@ -2,11 +2,11 @@
 
 <?php include("header.php"); ?>
 			<div id="content">
-				<h1>This Week's Diary</h1>
+				<h1>Two Week Diary</h1>
 
 				<p class="centre">(For a long-term look at our church, see the <a href="upcoming.php">Coming Weeks page</a>)</p>
 
-				<p class="centre"><strong>Schedule for the week 20th to 27th November</strong></p>
+				<p class="centre"><strong>Schedule for the weeks 27th November to 11th December</strong></p>
 
 				<table class="styled" summary="Schedule for events in the coming week(s)">
 					<thead>
@@ -18,34 +18,63 @@
 					</thead>
 					<tbody>
 						<tr class="odd">
-							<th scope="row">Tuesday<br />2:15 P.M.</th>
-							<td><strong>Women's Fellowship:<br />Mr. &amp; Mrs. Lambert (China)</strong></td>
-							<td>Open meeting, all welcome, men included!</td>
+							<th scope="row">Tuesday 29th<br />2:30 P.M.</th>
+							<td>Women's Fellowship:<br />Miss Joan Hall</td>
+							<td></td>
 						</tr>
 						<tr>
-							<th scope="row">Wednesday<br />3:00-4:00 P.M.</th>
+							<th scope="row">Wednesday 30th<br />7:00 P.M.</th>
+							<td>Home Group at<br /><em>Edna's</em></td>
+							<td></td>
+						</tr>
+						<tr class="odd">
+							<th scope="row">Thursday 1st<br />2:00-4:00 P.M.</th>
+							<td>"Dabblers" Hobby Group</td>
+							<td>All welcome!</td>
+						</tr>
+						<tr>
+							<th scope="row">Friday 2nd<br />10:30 A.M.</th>
+							<td>Home Group at<br />Bryan &amp; Audrey's</td>
+							<td></td>
+						</tr>
+						<tr class="odd">
+							<th scope="row">Sunday 4th<br />10:30 A.M.<br />6:30 P.M.</th>
+							<td>Sunday Services</td>
+							<td>Morning worship will be led by<br />
+							Mr. Keith Varney (MAF)<br />
+							Evening worship will be led by<br />
+							Rev. Paul Carter<br />
+							Evening worship includes communion</td>
+						</tr>
+						<tr>
+							<th scope="row">Tuesday 6th<br />2:15 P.M.</th>
+							<td><strong>Women's Fellowship:<br />Ferring School Choir</strong></td>
+							<td>Open meeting, all welcome, men included!</td>
+						</tr>
+						<tr class="odd">
+							<th scope="row">Wednesday 7th<br />3:00-4:00 P.M.</th>
 							<td>Prayer time</td>
 							<td></td>
 						</tr>
-						<tr class="odd">
-							<th scope="row">Thursday<br /> 10:30 A.M.</th>
+						<tr>
+							<th scope="row">Thursday 8th<br /> 10:30 A.M.</th>
 							<td>Home Group at<br />Mike &amp; Pat's</td>
-							<td>Luke 13:31-35 &amp; 19:32-44 - <br />"Sorrow for Jerusalem"</td>
+							<td>Luke 23:32-43; John 19:25-27 - <br />"Forgiving and Forgetting"</td>
+						</tr>
+						<tr class="odd">
+							<th scope="row">Thursday 8th<br /> 7:15 P.M.</th>
+							<td><strong>Church Meeting</strong></td>
+							<td>(Members only)</td>
 						</tr>
 						<tr>
-							<th scope="row">Friday<br />4:45-5:45 P.M.</th>
-							<td>Friday Club<br />(Ages 4-7)</td>
+							<th scope="row">Friday 9th<br />5:00-6:30 P.M.</th>
+							<td><strong>Friday Club Christmas Party</strong></td>
 							<td></td>
 						</tr>
 						<tr class="odd">
-							<th scope="row">Friday<br />6:00-7:00 P.M.</th>
-							<td>Friday Club<br />(Ages 8-11)</td>
-							<td></td>
-						</tr>
-						<tr>
-							<th scope="row">Advent Sunday<br />10:30 A.M.<br /><em>4:00 P.M.</em></th>
+							<th scope="row">Sunday 11th<br />10:30 A.M.<br />6:30 P.M.</th>
 							<td>Sunday Services</td>
-							<td><strong>Joint service at St. Andrew's<br />in evening, no service here</strong></td>
+							<td>Morning worship includes communion</td>
 						</tr>
 					</tbody>
 				</table>
