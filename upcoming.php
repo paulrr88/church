@@ -4,7 +4,7 @@
 			<div id="content">
 				<h1>Coming Weeks</h1>
 
-				<p class="floatleft underline">Preaching Schedule Oct-Dec 2016</p> <p class="floatright underline"><strong>(C)</strong> - Communion</p>
+				<p class="floatleft underline">Preaching Schedule Jan-Feb 2017</p> <p class="floatright underline"><strong>(C)</strong> - Communion</p>
 
 				<table class="clear styled" summary="Schedule for who is preaching in these coming months">
 					<thead>
@@ -16,74 +16,39 @@
 					</thead>
 					<tbody>
 						<tr class="odd">
-							<th scope="row">Oct 2nd</th>
-							<td>Rev. Stephen Goddard</td>
-							<td>Mrs. Lorna Sivyour</td>
-						</tr>
-						<tr>
-							<th scope="row">Oct 9th</th>
-							<td>Rev. Stuart Robinson</td>
-							<td>Fellowship evening</td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Oct 16th</th>
-							<td>Rev. Stuart Robinson</td>
-							<td>Rev. Stuart Robinson</td>
-						</tr>
-						<tr>
-							<th scope="row">Oct 23rd<br />(Anniversary)</th>
-							<td>Rev. David Hill <strong>(C)</strong></td>
-							<td>Rev. David Hill</td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Oct 30th</th>
-							<td>Rev. Paul Mortimore</td>
-							<td>Mr. Gerald Thompson</td>
-						</tr>
-						<tr>
-							<th scope="row">Nov 6th</th>
-							<td>Rev. Stuart Robinson</td>
-							<td>Rev. Stuart Robinson <strong>(C)</strong></td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Nov 13th</th>
-							<td>Rev. Stuart Robinson</td>
-							<td>Rev. Stuart Robinson</td>
-						</tr>
-						<tr>
-							<th scope="row">Nov 20th</th>
-							<td>Rev. Stuart Robinson <strong>(C)</strong></td>
-							<td>Rev. Stuart Robinson</td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Nov 27th</th>
-							<td>Rev. Stuart Robinson</td>
-							<td>Rev. Stuart Robinson</td>
-						</tr>
-						<tr>
-							<th scope="row">Dec 4th</th>
-							<td>Mr. Keith Varney (MAF)</td>
-							<td>Rev. Paul Carter <strong>(C)</strong></td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Dec 11th</th>
+							<th scope="row">Jan 1st</th>
 							<td>Rev. Stuart Robinson <strong>(C)</strong></td>
 							<td>Rev. Stuart Robinson</td>
 						</tr>
 						<tr>
-							<th scope="row">Dec 18th</th>
-							<td>Rev. Stuart Robinson<br /><strong>(Family Carol Service)</strong></td>
+							<th scope="row">Jan 8th</th>
+							<td>Rev. Stuart Robinson</td>
 							<td>Rev. Stuart Robinson</td>
 						</tr>
 						<tr class="odd">
-							<th scope="row">Dec 24th</th>
-							<td>(No service)</td>
-							<td>Rev. Stuart Robinson<br /><strong>(Carols by Candlelight)</strong></td>
+							<th scope="row">Jan 15th</th>
+							<td>Rev. Stuart Robinson</td>
+							<td>Rev. Stuart Robinson</td>
 						</tr>
 						<tr>
-							<th scope="row">Dec 25th</th>
-							<td>Rev. Stuart Robinson<br /><strong>(Christmas Morning)</strong></td>
-							<td>(No service)</td>
+							<th scope="row">Jan 22nd</th>
+							<td>Rev. Stuart Robinson</td>
+							<td>Rev. Stuart Robinson</td>
+						</tr>
+						<tr class="odd">
+							<th scope="row">Jan 29th</th>
+							<td>Rev. Stuart Robinson</td>
+							<td>Rev. Stuart Robinson</td>
+						</tr>
+						<tr>
+							<th scope="row">Feb 5th</th>
+							<td>Rev. Stuart Robinson</td>
+							<td>Rev. Stuart Robinson <strong>(C)</strong></td>
+						</tr>
+						<tr class="odd">
+							<th scope="row">Feb 12th</th>
+							<td>TBC</td>
+							<td>TBC</td>
 						</tr>
 					</tbody>
 				</table>

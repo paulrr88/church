@@ -2,11 +2,11 @@
 
 <?php include("header.php"); ?>
 			<div id="content">
-				<h1>Two Week Diary</h1>
+				<h1>This Week's Diary</h1>
 
 				<p class="centre">(For a long-term look at our church, see the <a href="upcoming.php">Coming Weeks page</a>)</p>
 
-				<p class="centre"><strong>Schedule for the weeks 18th December to 1st January</strong></p>
+				<p class="centre"><strong>Schedule for the week 1st to 8th January</strong></p>
 
 				<table class="styled" summary="Schedule for events in the coming week(s)">
 					<thead>
@@ -17,20 +17,25 @@
 						</tr>
 					</thead>
 					<tbody>
+						<tr>
+							<th scope="row">Wednesday<br />3:00-4:00 P.M.</th>
+							<td>Prayer time</td>
+							<td></td>
+						</tr>
 						<tr class="odd">
-							<th scope="row">Christmas Eve<br />6:30 P.M.</th>
-							<td><strong>Carols by Candlelight</strong></td>
-							<td>Offering for Spurgeon's Child Care</td>
+							<th scope="row">Friday<br />4:45-5:45 P.M.</th>
+							<td>Friday Club<br />(Ages 4-7)</td>
+							<td></td>
 						</tr>
 						<tr>
-							<th scope="row">Christmas Day<br />10:30 A.M.</th>
-							<td><strong>Celebrate Christ's Birth</strong></td>
-							<td>Offering for Spurgeon's Child Care</td>
+							<th scope="row">Friday<br />6:00-7:00 P.M.</th>
+							<td>Friday Club<br />(Ages 8-11)</td>
+							<td></td>
 						</tr>
 						<tr class="odd">
-							<th scope="row">Sunday 1st<br />10:30 A.M.<br />6:30 P.M.</th>
-							<td><strong>Worship for New Year</strong></td>
-							<td>Morning worship includes communion</td>
+							<th scope="row">Sunday<br />10:30 A.M.<br />6:30 P.M.</th>
+							<td>Sunday Services</td>
+							<td></td>
 						</tr>
 					</tbody>
 				</table>
