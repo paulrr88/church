@@ -6,7 +6,7 @@
 
 				<p class="centre">(For a long-term look at our church, see the <a href="upcoming.php">Coming Weeks page</a>)</p>
 
-				<p class="centre"><strong>Schedule for the week 5th to 12th February</strong></p>
+				<p class="centre"><strong>Schedule for the week 12th to 19th February</strong></p>
 
 				<table class="styled" summary="Schedule for events in the coming week(s)">
 					<thead>
@@ -19,41 +19,23 @@
 					<tbody>
 						<tr class="odd">
 							<th scope="row">Tuesday<br />2:30 P.M.</th>
-							<td>Women's Fellowship:<br />A.G.M.</td>
+							<td>Women's Fellowship:<br />Miss Pam Evans</td>
+							<td></td>
+						</tr>
+						<tr>
+							<th scope="row">Wednesday<br />3:00-4:00 P.M.</th>
+							<td>Prayer time</td>
 							<td></td>
 						</tr>
 						<tr class="odd">
 							<th scope="row">Thursday<br /> 10:30 A.M.</th>
 							<td>Home Group at<br />Mike &amp; Pat's</td>
-							<td>Genesis 12:1-5; 16:1-5, 18:1-15; 21:1-7 - <br />"Sarah &mdash; The Mother of a Nation"</td>
-						</tr>
-						<tr>
-							<th scope="row">Thursday<br />2:00-4:00 P.M.</th>
-							<td>"Dabblers" Hobby Group</td>
-							<td>All welcome!</td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Friday<br />10:30 A.M.</th>
-							<td>Home Group at<br />Bryan &amp; Audrey's</td>
-							<td></td>
-						</tr>
-						<tr>
-							<th scope="row">Friday<br />4:45-5:45 P.M.</th>
-							<td>Friday Club<br />(Ages 4-7)</td>
-							<td></td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Friday<br />6:00-7:00 P.M.</th>
-							<td>Friday Club<br />(Ages 8-11)</td>
 							<td></td>
 						</tr>
 						<tr>
 							<th scope="row">Sunday<br />10:30 A.M.<br />6:30 P.M.</th>
 							<td>Sunday Services</td>
-							<td>Morning service will be led by<br />
-								Mr. Brian Goldsmith<br />
-								Evening service will be led by<br />
-								Rev. Paul Carter</td>
+							<td>Morning worship includes communion</td>
 						</tr>
 					</tbody>
 				</table>
