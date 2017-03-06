@@ -2,11 +2,11 @@
 
 <?php include("header.php"); ?>
 			<div id="content">
-				<h1>Two Week Diary</h1>
+				<h1>This Week's Diary</h1>
 
 				<p class="centre">(For a long-term look at our church, see the <a href="upcoming.php">Coming Weeks page</a>)</p>
 
-				<p class="centre"><strong>Schedule for the weeks 19th February to 5th March</strong></p>
+				<p class="centre"><strong>Schedule for the week 5th to 12th March</strong></p>
 
 				<table class="styled" summary="Schedule for events in the coming week(s)">
 					<thead>
@@ -18,57 +18,40 @@
 					</thead>
 					<tbody>
 						<tr class="odd">
-							<th scope="row">Tuesday 21st<br />2:30 P.M.</th>
-							<td>Women's Fellowship:<br />Mrs. Jean Hanson</td>
+							<th scope="row">Tuesday<br />2:30 P.M.</th>
+							<td>Women's Fellowship:<br />Mr. David Napper</td>
 							<td></td>
 						</tr>
 						<tr>
-							<th scope="row">Thursday 23rd<br />2:00-4:00 P.M.</th>
+							<th scope="row">Wednesday<br />7:00 P.M.</th>
+							<td>Home Group at<br /><em>Edna's</em></td>
+							<td></td>
+						</tr>
+
+						<tr class="odd">
+							<th scope="row">Thursday<br />2:00-4:00 P.M.</th>
 							<td>"Dabblers" Hobby Group</td>
 							<td>All welcome!</td>
 						</tr>
-						<tr class="odd">
-							<th scope="row">Friday 24th<br />10:30 A.M.</th>
+						<tr>
+							<th scope="row">Friday<br />10:30 A.M.</th>
 							<td>Home Group at<br />Bryan &amp; Audrey's</td>
 							<td></td>
 						</tr>
-						<tr>
-							<th scope="row">Sunday 26th<br />10:30 A.M.<br />6:30 P.M.</th>
-							<td>Sunday Services</td>
-							<td>Morning service will be led by<br />
-								Mr. Darren Lewis<br />
-								Evening service will be led by<br />
-								Rev. Paul Carter</td>
-						</tr>
 						<tr class="odd">
-							<th scope="row">Tuesday 28th<br />2:30 P.M.</th>
-							<td>Women's Fellowship:<br />Rev. Philip Tout</td>
-							<td></td>
-						</tr>
-						<tr>
-							<th scope="row">Wednesday 1st<br />3:00-4:00 P.M.</th>
-							<td>Prayer time</td>
-							<td></td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Thursday 2nd<br /> 10:30 A.M.</th>
-							<td>Home Group at<br />Mike &amp; Pat's</td>
-							<td></td>
-						</tr>
-						<tr>
-							<th scope="row">Friday 3rd<br />4:45-5:45 P.M.</th>
+							<th scope="row">Friday<br />4:45-5:45 P.M.</th>
 							<td>Friday Club<br />(Ages 4-7)</td>
 							<td></td>
 						</tr>
-						<tr class="odd">
-							<th scope="row">Friday 3rd<br />6:00-7:00 P.M.</th>
+						<tr>
+							<th scope="row">Friday<br />6:00-7:00 P.M.</th>
 							<td>Friday Club<br />(Ages 8-11)</td>
 							<td></td>
 						</tr>
-						<tr>
-							<th scope="row">Sunday 5th<br />10:30 A.M.<br />6:30 P.M.</th>
+						<tr class="odd">
+							<th scope="row">Sunday<br />10:30 A.M.<br />6:30 P.M.</th>
 							<td>Sunday Services</td>
-							<td>Evening worship includes communion</td>
+							<td></td>
 						</tr>
 					</tbody>
 				</table>
