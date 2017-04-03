@@ -2,11 +2,11 @@
 
 <?php include("header.php"); ?>
 			<div id="content">
-				<h1>Two Week Diary</h1>
+				<h1>This Week's Diary</h1>
 
 				<p class="centre">(For a long-term look at our church, see the <a href="upcoming.php">Coming Weeks page</a>)</p>
 
-				<p class="centre"><strong>Schedule for the weeks 19th March to 2nd April</strong></p>
+				<p class="centre"><strong>Schedule for the week 2nd to 9th April</strong></p>
 
 				<table class="styled" summary="Schedule for events in the coming week(s)">
 					<thead>
@@ -18,73 +18,27 @@
 					</thead>
 					<tbody>
 						<tr class="odd">
-							<th scope="row">Tuesday 21st<br />2:30 P.M.</th>
-							<td>Women's Fellowship:<br />Rev. Paul Carter</td>
+							<th scope="row">Tuesday<br />2:30 P.M.</th>
+							<td>Women's Fellowship:<br />Canon Muriel Pargeter</td>
 							<td></td>
 						</tr>
 						<tr>
-							<th scope="row">Wednesday 22nd<br />7:00 P.M.</th>
-							<td><em>Please check with David Napper<br />re: home group</em></td>
+							<th scope="row">Wednesday-Friday<br />All day</th>
+							<td><strong>Church windows being done thru Friday</strong><br />
+							for health and safety reasons,<br />
+							please avoid coming into the church<br />
+							if at all possible.</td>
 							<td></td>
 						</tr>
-
 						<tr class="odd">
-							<th scope="row">Thursday 23rd<br />2:00-4:00 P.M.</th>
-							<td>"Dabblers" Hobby Group</td>
-							<td>All welcome!</td>
-						</tr>
-						<tr>
-							<th scope="row">Friday 24th<br />10:30 A.M.</th>
+							<th scope="row">Friday<br />10:<em>55</em> A.M.</th>
 							<td>Home Group at<br />Bryan &amp; Audrey's</td>
 							<td></td>
 						</tr>
-						<tr class="odd">
-							<th scope="row">Friday 24th<br />4:45-5:45 P.M.</th>
-							<td>Friday Club<br />(Ages 4-7)</td>
-							<td></td>
-						</tr>
 						<tr>
-							<th scope="row">Friday 24th<br />6:00-7:00 P.M.</th>
-							<td>Friday Club<br />(Ages 8-11)</td>
+							<th scope="row">Palm Sunday<br />10:30 A.M.<br />6:30 P.M.</th>
+							<td>Palm Sunday Services</td>
 							<td></td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Mothering<br />Sunday 26th<br />10:30 A.M.<br />6:30 P.M.</th>
-							<td>Sunday Services</td>
-							<td>Morning service will be led by<br />
-								Mr. Brian Goldsmith<br />
-								Evening will be<br />
-								a Fellowship Evening</td>
-						</tr>
-						<tr>
-							<th scope="row">Tuesday 28th<br />2:30 P.M.</th>
-							<td>Women's Fellowship:<br />Mrs. Lorna Sivyour</td>
-							<td></td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Wednesday 29th<br />3:00-4:00 P.M.</th>
-							<td>Prayer time</td>
-							<td></td>
-						</tr>
-						<tr>
-							<th scope="row">Thursday 30th<br /> 10:30 A.M.</th>
-							<td>Home Group at<br />Mike &amp; Pat's</td>
-							<td></td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Friday 31st<br />4:45-5:45 P.M.</th>
-							<td>Friday Club<br />(Ages 4-7)</td>
-							<td></td>
-						</tr>
-						<tr>
-							<th scope="row">Friday 31st<br />6:00-7:00 P.M.</th>
-							<td>Friday Club<br />(Ages 8-11)</td>
-							<td></td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Sunday 2nd<br />10:30 A.M.<br />6:30 P.M.</th>
-							<td>Sunday Services</td>
-							<td>Evening worship includes communion</td>
 						</tr>
 					</tbody>
 				</table>
