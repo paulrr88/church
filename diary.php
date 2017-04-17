@@ -6,7 +6,7 @@
 
 				<p class="centre">(For a long-term look at our church, see the <a href="upcoming.php">Coming Weeks page</a>)</p>
 
-				<p class="centre"><strong>Schedule for the week 9th to 16th April</strong></p>
+				<p class="centre"><strong>Schedule for the week 16th to 23rd April</strong></p>
 
 				<table class="styled" summary="Schedule for events in the coming week(s)">
 					<thead>
@@ -18,28 +18,18 @@
 					</thead>
 					<tbody>
 						<tr class="odd">
-							<th scope="row">Tuesday<br />2:30 P.M.</th>
-							<td>Women's Fellowship Easter Meditation:<br />Miss Pam Evans</td>
-							<td></td>
+							<th scope="row">Thursday<br />2:00-4:00 P.M.</th>
+							<td>"Dabblers" Hobby Group</td>
+							<td>All welcome!</td>
 						</tr>
 						<tr>
-							<th scope="row">Wednesday<br />3:00-4:00 P.M.</th>
-							<td>Prayer time</td>
+							<th scope="row">Friday<br />10:<em>55</em> A.M.</th>
+							<td>Home Group at<br />Bryan &amp; Audrey's</td>
 							<td></td>
 						</tr>
 						<tr class="odd">
-							<th scope="row">Thursday<br /> 10:30 A.M.</th>
-							<td>Home Group at<br />Mike &amp; Pat's</td>
-							<td></td>
-						</tr>
-						<tr>
-							<th scope="row">Good Friday<br /> 10:30 A.M.</th>
-							<td>Good Friday Worship</td>
-							<td>Worship includes communion</td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Easter Sunday<br />10:30 A.M.<br />6:30 P.M.</th>
-							<td>Easter Sunday Services</td>
+							<th scope="row">Sunday<br />10:30 A.M.<br />6:30 P.M.</th>
+							<td>Sunday Services</td>
 							<td></td>
 						</tr>
 					</tbody>
