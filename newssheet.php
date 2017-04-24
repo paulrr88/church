@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 
 <?php include("header.php"); ?>
 			<div id="content">
@@ -16,7 +16,7 @@
 
 				<a href="images/newssheetfront.jpg"><img src="images/newssheetfront.jpg" width="600" style="margin-left: 75px;" /></a>
 
-				<!--<a href="images/newssheetinside.jpg"><img src="images/newssheetinside.jpg" width="600" style="margin-left: 75px;" /></a>-->
+				<a href="images/newssheetinside.jpg"><img src="images/newssheetinside.jpg" width="600" style="margin-left: 75px;" /></a>
 
 			</div>
 			<div id="footer">
