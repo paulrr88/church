@@ -1,19 +1,15 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 
 <?php include("header.php"); ?>
 			<div id="content">
 				<h1>Inquiries</h1>
 
-				<p>If you have any inquiries about the church, or notice any problems with the site, please let me know at the following address:</p>
+				<p>If you have any inquiries about the church please let us know at the following address:</p>
 
-				<!--<p><strong>Please note:</strong> We do not rent the church hall out to organisations due to...-->
+				<p><strong><a href="mailto:admin@ferringbaptist.org.uk">admin@ferringbaptist.org.uk</a></strong></p>
 
-				<p><strong><a href="mailto:paul@ferringbaptist.org.uk">paul@ferringbaptist.org.uk</a></strong></p>
-
-				<p>If you have a problem to report, please include details if you can, such as the browser and browser version you are using (for instance, Internet Explorer 6.0), the details of which can be found under the Help menu in your browser if you click About. Please be as specific as possible as to where the problem is, what you were doing at the time, your monitor resolution etc.</p>
-
-				<p>Thanks!</p>
-
+                <br />
+                
 				<h2>About hall hire</h2>
 
 				<p>We unfortunately do not have a hall that is separated from the rest of the church. This means that, for reasons of insurance, <strong>we are not able to rent out our hall</strong>.
