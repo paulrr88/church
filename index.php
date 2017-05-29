@@ -26,7 +26,7 @@
 				<div class="nbox_top"><h1>Holiday Club 2016 photos!</h1></div>
 
 				<div class="nbox_content">
-					<p>The Holiday Club page now has the <a href="holidayclub.php">photos from this year's Holiday Club</a>, Rocky's Plaice!</p>
+					<p>The Holiday Club page now has the <a href="holidayclub.php">photos from last year's Holiday Club</a>, Rocky's Plaice!</p>
 				</div>
 
 				<div class="nbox_bottom"></div>
