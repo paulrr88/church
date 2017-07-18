@@ -1,11 +1,16 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 
 <?php include("header_visitors.php"); ?>
 				<h1>Children &amp; Youth</h1>
 								
 				<img src="images/visitors_child.jpg" alt="girl" class="girlpic" width="200" height="267" />
 							
-				<p><strong>Under 18's are very welcome</strong> to share in worship on any Sunday, but we also cater for children and young people on Friday evenings in term-time. Friday Club has two sessions, one at 4:45 p.m. for ages 4-7 and the other at 6:00 p.m. for ages 8-11 and 11-14. Each session lasts an hour, and includes games and crafts, plus a Bible-based story, discussion, or film. <strong>All staff are trained in &quot;Safe to Grow&quot; procedures</strong> (the Baptist Union's guidelines for the protection of children and those who work with them) and <strong>all adults in regular contact with children have obtained the criminal record disclosures</strong> that are a legal requirement.</p>
+				<p><strong>Under 18's are very welcome</strong> to share in worship on any Sunday, but we also cater for children and young people on Friday evenings in term-time. <strong>Friday Club runs from 5:00-6:00 p.m. every week (except during half-terms). 4-7 year-olds can join us for Minis, and we have a Juniors session for 8-11s</strong>. The sessions run at the same time, and include games and crafts, plus a Bible-based story, discussion, or film.</p>
+
+<p></p>
+                    
+                    <p>All staff are trained in "Safe to Grow" procedures (the Baptist Union's guidelines for the protection of children and those who work with them) and all adults in regular contact with children have obtained the criminal record disclosures that are a legal requirement.</p>
+                    
 
 				<p>In the summer holidays, <strong>we run a one week <a href="holidayclub.php">Holiday Bible Club</a> for children</strong> which is very popular in the village - especially with parents!</p><br /><br /><br /><br /></div>
 			<div id="footer">
