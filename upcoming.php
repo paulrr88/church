@@ -4,7 +4,7 @@
 			<div id="content">
 				<h1>Coming Weeks</h1>
 
-				<p class="floatleft underline">Preaching Schedule Jul 2017</p> <p class="floatright underline"><strong>(C)</strong> - Communion</p>
+				<p class="floatleft underline">Preaching Schedule Jul-Aug 2017</p> <p class="floatright underline"><strong>(C)</strong> - Communion</p>
 
 				<table class="clear styled" summary="Schedule for who is preaching in these coming months">
 					<thead>
@@ -16,27 +16,27 @@
 					</thead>
 					<tbody>
 						<tr class="odd">
-							<th scope="row">Jul 2nd</th>
-							<td>Rev. Trevor Smetham</td>
-							<td>Deanna Clark <strong>(C)</strong></td>
+							<th scope="row">Jul 30th</th>
+							<td>Rev. Stuart Robinson</td>
+							<td>Rev. Stuart Robinson</td>
+						</tr>
+                        <tr class="odd">
+							<th scope="row">Aug 6th</th>
+							<td>TBC</td>
+							<td>TBC <strong>(C)</strong></td>
 						</tr>
 						<tr>
-							<th scope="row">Jul 9th</th>
+							<th scope="row">Aug 13th</th>
 							<td>Rev. Stuart Robinson</td>
 							<td>Rev. Stuart Robinson</td>
 						</tr>
 						<tr class="odd">
-							<th scope="row">Jul 16th</th>
+							<th scope="row">Aug 20th</th>
 							<td>Rev. Stuart Robinson <strong>(C)</strong></td>
 							<td>Rev. Stuart Robinson</td>
 						</tr>
 						<tr>
-							<th scope="row">Jul 23rd</th>
-							<td>Rev. Stuart Robinson</td>
-							<td>Rev. Stuart Robinson</td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Jul 30th</th>
+							<th scope="row">Aug 27th</th>
 							<td>Rev. Stuart Robinson</td>
 							<td>Rev. Stuart Robinson</td>
 						</tr>
