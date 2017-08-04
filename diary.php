@@ -2,11 +2,11 @@
 
 <?php include("header.php"); ?>
 			<div id="content">
-				<h1>This Week's Diary</h1>
+				<h1>Three Week Diary</h1>
 
 				<p class="centre">(For a long-term look at our church, see the <a href="upcoming.php">Coming Weeks page</a>)</p>
 
-				<p class="centre"><strong>Schedule for the week 30th July to 6th August</strong></p>
+				<p class="centre"><strong>Schedule for the weeks 6th to 20th August</strong></p>
 
 				<table class="styled" summary="Schedule for events in the coming week(s)">
 					<thead>
@@ -18,17 +18,34 @@
 					</thead>
 					<tbody>
 						<tr class="odd">
-							<th scope="row">Wednesday<br />3:00-4:00 P.M.</th>
+							<th scope="row">Tuesday 8th to Friday 11th<br />10:00 A.M. to<br />12:00 noon</th>
+							<td><strong>"Guardians of Ancora"<br />Holiday Club</strong></td>
+							<td>See our <a href="holidayclub.php">Holiday Club page</a><br />for details!</td>
+						</tr>
+						<tr>
+							<th scope="row">Friday 11th<br />6:00 P.M.</th>
+							<td><strong>Finale and Buffet</strong></td>
+							<td>All welcome! Tickets £3 for adults,<br />£1.50 for children,<br />please purchase during the week</td>
+						</tr>
+						<tr class="odd">
+							<th scope="row">Sunday 13th<br />10:30 A.M.<br />6:30 P.M.</th>
+							<td>Sunday Services</td>
+							<td></td>
+						</tr>
+                        <tr>
+							<th scope="row">Tuesday 15th<br />2:30 P.M.</th>
+							<td>Women's Fellowship:<br />Tea &amp; Chat/Bring &amp; Buy Sale</td>
+							<td></td>
+						</tr>
+						<tr class="odd">
+							<th scope="row">Wednesday 16th<br />3:00-4:00 P.M.</th>
 							<td>Prayer time</td>
 							<td></td>
 						</tr>
 						<tr>
-							<th scope="row">Sunday<br />10:30 A.M.<br />6:30 P.M.</th>
+							<th scope="row">Sunday 20th<br />10:30 A.M.<br />6:30 P.M.</th>
 							<td>Sunday Services</td>
-							<td>Morning service will be led by<br />
-								Mr. Roger Purdom<br />
-								Evening service will be led by<br />
-								Rev. Philip Tout</td>
+							<td>Morning worship includes communion</td>
 						</tr>
 					</tbody>
 				</table>
