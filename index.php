@@ -12,7 +12,7 @@
 
 				<p>Welcome to the official website for Ferring Baptist Church! Visitors can find information about the church on <a href="http://localhost/church/visitors_welcome.php">the visitors pages</a>. For people who already come to the church, you can find information on <a href="diary.php">current events and the weekly schedule</a> for them, as well as information on <a href="upcoming.php">coming Sunday services</a>. We hope you find this site useful!</p>
 
-				<br /><h1 class="hcline"><a href="holidayclub.php">Holiday Club 2017 details and form now available!</a></h1><br />
+				<!--<br /><h1 class="hcline"><a href="holidayclub.php">Holiday Club 2017 details and form now available!</a></h1><br />-->
 
 				<div class="nbox_top"><h1>Holiday Club 2017 dates</h1></div>
 
