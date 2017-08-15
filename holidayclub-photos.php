@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 
 <?php include("header_visitors.php"); ?>
 				<h1>Previous Holiday Club Photos</h1>
@@ -6,6 +6,17 @@
 				<p><strong><a href="holidayclub.php">Back</a></strong></p>
 
 				<p class="smaller">(All identifiable pictures of children used with permission of parents)</p><br />
+
+                <h2>Pictures from Rocky's Plaice (2016)</h2>
+
+				<div class="hcthumbs">
+					<a href="images/hc_2016_001.jpg"><img src="images/hc_2016_001_th.jpg" alt="Holiday Club Picture" class="thumb" /></a> <a href="images/hc_2016_002.jpg"><img src="images/hc_2016_002_th.jpg" alt="Holiday Club Picture" class="thumb" /></a> <a href="images/hc_2016_003.jpg"><img src="images/hc_2016_003_th.jpg" alt="Holiday Club Picture" class="thumb" /></a> <a href="images/hc_2016_004.jpg"><img src="images/hc_2016_004_th.jpg" alt="Holiday Club Picture" class="thumb" /></a>
+					<a href="images/hc_2016_005.jpg"><img src="images/hc_2016_005_th.jpg" alt="Holiday Club Picture" class="thumb" /></a> <a href="images/hc_2016_006.jpg"><img src="images/hc_2016_006_th.jpg" alt="Holiday Club Picture" class="thumb" /></a> <a href="images/hc_2016_007.jpg"><img src="images/hc_2016_007_th.jpg" alt="Holiday Club Picture" class="thumb" /></a> <a href="images/hc_2016_008.jpg"><img src="images/hc_2016_008_th.jpg" alt="Holiday Club Picture" class="thumb" /></a>
+					<a href="images/hc_2016_009.jpg"><img src="images/hc_2016_009_th.jpg" alt="Holiday Club Picture" class="thumb" /></a> <a href="images/hc_2016_010.jpg"><img src="images/hc_2016_010_th.jpg" alt="Holiday Club Picture" class="thumb" /></a> <a href="images/hc_2016_011.jpg"><img src="images/hc_2016_011_th.jpg" alt="Holiday Club Picture" class="thumb" /></a> <a href="images/hc_2016_012.jpg"><img src="images/hc_2016_012_th.jpg" alt="Holiday Club Picture" class="thumb" /></a>
+					<a href="images/hc_2016_013.jpg"><img src="images/hc_2016_013_th.jpg" alt="Holiday Club Picture" class="thumb" /></a> <a href="images/hc_2016_014.jpg"><img src="images/hc_2016_014_th.jpg" alt="Holiday Club Picture" class="thumb" /></a> <a href="images/hc_2016_015.jpg"><img src="images/hc_2016_015_th.jpg" alt="Holiday Club Picture" class="thumb" /></a> <a href="images/hc_2016_016.jpg"><img src="images/hc_2016_016_th.jpg" alt="Holiday Club Picture" class="thumb" /></a>
+					<a href="images/hc_2016_017.jpg"><img src="images/hc_2016_017_th.jpg" alt="Holiday Club Picture" class="thumb" /></a> <a href="images/hc_2016_018.jpg"><img src="images/hc_2016_018_th.jpg" alt="Holiday Club Picture" class="thumb" /></a> <a href="images/hc_2016_019.jpg"><img src="images/hc_2016_019_th.jpg" alt="Holiday Club Picture" class="thumb" /></a> <a href="images/hc_2016_020.jpg"><img src="images/hc_2016_020_th.jpg" alt="Holiday Club Picture" class="thumb" /></a>
+					<a href="images/hc_2016_021.jpg"><img src="images/hc_2016_021_th.jpg" alt="Holiday Club Picture" class="thumb" /></a>
+				</div>
 
 				<h2>Pictures from Pyramid Rock (2015)</h2>
 

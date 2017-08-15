@@ -14,19 +14,12 @@
 
 				<!--<br /><h1 class="hcline"><a href="holidayclub.php">Holiday Club 2017 details and form now available!</a></h1><br />-->
 
-				<div class="nbox_top"><h1>Holiday Club 2017 dates</h1></div>
+				
+
+				<div class="nbox_top"><h1>Holiday Club 2017 photos!</h1></div>
 
 				<div class="nbox_content">
-					<p>The dates for 2017's <a href="holidayclub.php">Holiday Club</a> have been decided!<br /><br />
-						 The club will be held from <strong>Tuesday 8th August to Friday 11th August</strong> with the usual evening session on the Friday.</p>
-				</div>
-
-				<div class="nbox_bottom"></div>
-
-				<div class="nbox_top"><h1>Holiday Club 2016 photos!</h1></div>
-
-				<div class="nbox_content">
-					<p>The Holiday Club page now has the <a href="holidayclub.php">photos from last year's Holiday Club</a>, Rocky's Plaice!</p>
+					<p>The Holiday Club page now has the <a href="holidayclub.php">photos from 2017's Holiday Club</a>, Guardians of Ancora!</p>
 				</div>
 
 				<div class="nbox_bottom"></div>
