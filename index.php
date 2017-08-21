@@ -19,7 +19,7 @@
 				<div class="nbox_top"><h1>Holiday Club 2017 photos!</h1></div>
 
 				<div class="nbox_content">
-					<p>The Holiday Club page now has the <a href="holidayclub.php">photos from 2017's Holiday Club</a>, Guardians of Ancora!</p>
+					<p>The Holiday Club page has been updated with the <a href="holidayclub.php">photos from 2017's Holiday Club</a>, Guardians of Ancora!</p>
 				</div>
 
 				<div class="nbox_bottom"></div>
