@@ -4,7 +4,7 @@
 			<div id="content">
 				<h1>Coming Weeks</h1>
 
-				<p class="floatleft underline">Preaching Schedule Oct 2017</p> <p class="floatright underline"><strong>(C)</strong> - Communion</p>
+				<p class="floatleft underline">Preaching Schedule Oct-Nov 2017</p> <p class="floatright underline"><strong>(C)</strong> - Communion</p>
 
 				<table class="clear styled" summary="Schedule for who is preaching in these coming months">
 					<thead>
@@ -27,8 +27,8 @@
 						</tr>
 						<tr class="odd">
 							<th scope="row">Oct 15th</th>
-							<td>Speakers TBC <strong>(C)</strong></td>
-							<td>Speakers TBC</td>
+							<td>Rev. Graham  Jefferson <strong>(C)</strong></td>
+							<td>Rev. Paul Carter</td>
 						</tr>
 						<tr>
 							<th scope="row">Oct 22nd</th>
@@ -41,6 +41,26 @@
                             <strong>(Church Anniversary)</strong></td>
 							<td>Rev. Trevor Smetham<br />
                             <strong>(Church Anniversary)</strong></td>
+						</tr>
+                        <tr>
+							<th scope="row">Nov 5th</th>
+							<td>Rev. Stuart Robinson</td>
+							<td>Rev. Stuart Robinson <strong>(C)</strong></td>
+						</tr>
+						<tr class="odd">
+							<th scope="row">Nov 12th</th>
+							<td>Rev. Stuart Robinson</td>
+							<td>Rev. Stuart Robinson</td>
+						</tr>
+						<tr>
+							<th scope="row">Nov 19th</th>
+							<td>Rev. David Hill <strong>(C)</strong></td>
+							<td>Rev. David Hill</td>
+						</tr>
+						<tr class="odd">
+							<th scope="row">Nov 26th</th>
+							<td>Rev. Stuart Robinson</td>
+							<td>Rev. Stuart Robinson</td>
 						</tr>
 					</tbody>
 				</table>
