@@ -6,7 +6,7 @@
 
 				<p class="centre">(For a long-term look at our church, see the <a href="upcoming.php">Coming Weeks page</a>)</p>
 
-				<p class="centre"><strong>Schedule for the week 22nd to 29th October</strong></p>
+				<p class="centre"><strong>Schedule for the week 5th to 12th Nov</strong></p>
 
 				<table class="styled" summary="Schedule for events in the coming week(s)">
 					<thead>
@@ -19,7 +19,7 @@
 					<tbody>
 						<tr class="odd">
 							<th scope="row">Tuesday<br />2:30 P.M.</th>
-							<td>Women's Fellowship:<br />Rev. Paul Carter</td>
+							<td>Women's Fellowship:<br />Mrs. Jenny Rickwood</td>
 							<td></td>
 						</tr>
 						<tr>
@@ -33,17 +33,17 @@
 							<td></td>
 						</tr>
 						<tr>
-							<th scope="row">Thursday<br /> 10:30 A.M.</th>
-							<td>Home Group at<br />Mike &amp; Pat's</td>
+							<th scope="row">Friday<br />5:00-6:00 P.M.</th>
+							<td>Friday Club<br />(Ages 4-11)</td>
 							<td></td>
 						</tr>
 						<tr class="odd">
-							<th scope="row">Sunday<br />10:30 A.M.<br />5:15 P.M.</th>
-							<td>Anniversary Sunday Services</td>
-							<td>Morning worship includes communion<br />
-                            Both services will be led by<br />
-                            Rev. Trevor Smetham<br />
-                            5:15 is Fellowship Tea followed by<br />evening worship<br />(at the usual time of 6:30)</td>
+							<th scope="row">Sunday<br />10:<em>00</em> A.M.<br />6:30 P.M.</th>
+							<td><strong>Remembrance<br />Sunday Services</strong></td>
+							<td>Morning worship at the church,<br />
+                                followed by the Act of Remembrance<br />
+                                at the Ferring War Memorial<br />
+                                at 10:55 A.M.</td>
 						</tr>
 					</tbody>
 				</table>
