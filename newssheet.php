@@ -16,7 +16,7 @@
 
 				<a href="images/newssheetfront.jpg"><img src="images/newssheetfront.jpg" width="600" style="margin-left: 75px;" /></a>
 
-				<a href="images/newssheetinside.jpg"><img src="images/newssheetinside.jpg" width="600" style="margin-left: 75px;" /></a>
+				<!--<a href="images/newssheetinside.jpg"><img src="images/newssheetinside.jpg" width="600" style="margin-left: 75px;" /></a>-->
 
 			</div>
 			<div id="footer">
