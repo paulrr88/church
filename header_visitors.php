@@ -43,8 +43,7 @@
 							<li><a href="visitors_welcome.php" accesskey="w" tabindex="6"><span class="underline">W</span>elcome</a> | </li>
 							<li><a href="visitors_disabled.php" accesskey="d" tabindex="7"><span class="underline">D</span>isabled Facilities</a> | </li>
 							<li><a href="visitors_youth.php" accesskey="c" tabindex="9"><span class="underline">C</span>hildren &amp; Youth</a> | </li>
-							<li><a href="holidayclub.php">Holid<span class="underline">a</span>y Clubs</a> | </li>
-							<li><a href="visitors_women.php" accesskey="p" tabindex="10">Women's Fellowshi<span class="underline">p</span></a></li>
+							<li><a href="holidayclub.php">Holid<span class="underline">a</span>y Clubs</a></li>
 						</ul><br />
 						<ul>
 							<li><a href="visitors_community.php" accesskey="m" tabindex="11">Co<span class="underline">m</span>munity Contact and Outreach</a> | </li>
