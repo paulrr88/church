@@ -6,7 +6,7 @@
 
 				<p class="centre">(For a long-term look at our church, see the <a href="upcoming.php">Coming Weeks page</a>)</p>
 
-				<p class="centre"><strong>Schedule for the week 19th to 26th Nov</strong></p>
+				<p class="centre"><strong>Schedule for the week 26th November to 3rd December</strong></p>
 
 				<table class="styled" summary="Schedule for events in the coming week(s)">
 					<thead>
@@ -19,7 +19,7 @@
 					<tbody>
 						<tr class="odd">
 							<th scope="row">Tuesday<br />2:30 P.M.</th>
-							<td>Women's Fellowship:<br />Canon Muriel Pargeter</td>
+							<td>Women's Fellowship:<br />Miss Joan Hall &amp;<br />Mrs. Sadie Rees</td>
 							<td></td>
 						</tr>
 						<tr>
@@ -28,24 +28,19 @@
 							<td>All welcome!</td>
 						</tr>
 						<tr class="odd">
-							<th scope="row">Wednesday<br />3:00-4:00 P.M.</th>
-							<td>Prayer time</td>
-							<td></td>
+							<th scope="row">Thursday<br />2:00-4:00 P.M.</th>
+							<td>"Dabblers" Hobby Group</td>
+							<td>All welcome!</td>
 						</tr>
 						<tr>
-							<th scope="row">Thursday<br /> 10:30 A.M.</th>
-							<td>Home Group at<br />Mike &amp; Pat's</td>
+							<th scope="row">Friday<br />10:55 A.M.</th>
+							<td>Home Group at<br />Bryan &amp; Audrey's</td>
 							<td></td>
 						</tr>
 						<tr class="odd">
-							<th scope="row">Friday<br />5:00-6:00 P.M.</th>
-							<td>Friday Club<br />(Ages 4-11)</td>
-							<td></td>
-						</tr>
-						<tr>
-							<th scope="row">Sunday<br />10:30 A.M.<br />6:30 P.M.</th>
-							<td>Sunday Services</td>
-							<td></td>
+							<th scope="row">Sunday<br />10:30 A.M.</th>
+							<td>Advent Sunday Service</td>
+							<td><strong>Joint service at St. Andrew's Church<br />this evening at 6:00</strong></td>
 						</tr>
 					</tbody>
 				</table>
