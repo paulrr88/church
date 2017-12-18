@@ -47,7 +47,7 @@
 						</tr>
 						<tr>
 							<th scope="row">Dec 17th</th>
-							<td>Rev. Stuart Robinson <strong>(C)</strong></td>
+							<td>Rev. Stuart Robinson</td>
 							<td>Rev. Stuart Robinson</td>
 						</tr>
 						<tr class="odd">
@@ -58,7 +58,7 @@
                         <tr>
 							<th scope="row">Dec 31st</th>
 							<td>Mr. Timothy Ogutu</td>
-							<td>Rev. Philip Tout</td>
+							<td>Rev. Philip Tout <strong>(C)</strong></td>
 						</tr>
 					</tbody>
 				</table>
