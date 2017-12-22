@@ -52,10 +52,16 @@
 						</tr>
 						<tr class="odd">
 							<th scope="row">Dec 24th</th>
-							<td>Rev. Stuart Robinson</td>
-							<td><strong>Carols by Candlelight</strong></td>
+							<td>Rev. Roger Purdom</td>
+							<td><strong>Carols by Candlelight</strong><br />
+                            (Rev. Philip Tout)</td>
 						</tr>
                         <tr>
+							<th scope="row">Dec 25th</th>
+							<td>TBC</td>
+							<td></td>
+						</tr>
+                        <tr class="odd">
 							<th scope="row">Dec 31st</th>
 							<td>Mr. Timothy Ogutu</td>
 							<td>Rev. Philip Tout <strong>(C)</strong></td>

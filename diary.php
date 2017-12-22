@@ -25,12 +25,15 @@
 						<tr>
 							<th scope="row">Sunday<br />10:30 A.M.</th>
 							<td>Sunday Service</td>
-							<td></td>
+							<td>Service will be led by<br />
+                            Rev. Roger Purdom</td>
 						</tr>
                         <tr class="odd">
 							<th scope="row">Sunday<br />6:30 P.M.</th>
 							<td><strong>Carols by Candlelight</strong></td>
-							<td>Offering for Spurgeon's Childcare</td>
+							<td>Offering for Spurgeon's Childcare<br />
+                            Service will be led by<br />
+                            Rev. Philip Tout</td>
 						</tr>
                         <tr>
 							<th scope="row">Monday<br />10:30 A.M.</th>
