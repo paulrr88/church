@@ -2,11 +2,11 @@
 
 <?php include("header.php"); ?>
 			<div id="content">
-				<h1>This Week's Diary</h1>
+				<h1>Two Week Diary</h1>
 
 				<p class="centre">(For a long-term look at our church, see the <a href="upcoming.php">Coming Weeks page</a>)</p>
 
-				<p class="centre"><strong>Schedule for the week 17th to 24th December</strong></p>
+				<p class="centre"><strong>Schedule for the weeks 24th December to 7th January</strong></p>
 
 				<table class="styled" summary="Schedule for events in the coming week(s)">
 					<thead>
@@ -18,27 +18,38 @@
 					</thead>
 					<tbody>
 						<tr class="odd">
-							<th scope="row">Wednesday<br />3:00-4:00 P.M.</th>
-							<td>Prayer time</td>
-							<td></td>
-						</tr>
-						<tr>
-							<th scope="row">Sunday<br />10:30 A.M.</th>
+							<th scope="row">Sunday 24th<br />10:30 A.M.</th>
 							<td>Sunday Service</td>
 							<td>Service will be led by<br />
                             Rev. Roger Purdom</td>
 						</tr>
-                        <tr class="odd">
-							<th scope="row">Sunday<br />6:30 P.M.</th>
-							<td><strong>Carols by Candlelight</strong></td>
-							<td>Offering for Spurgeon's Childcare<br />
-                            Service will be led by<br />
-                            Rev. Philip Tout</td>
-						</tr>
                         <tr>
-							<th scope="row">Monday<br />10:30 A.M.</th>
+							<th scope="row">Sunday 24th<br />6:30 P.M.</th>
+							<td><strong>Carols by Candlelight</strong></td>
+							<td>Offering for Spurgeon's Childcare</td>
+						</tr>
+                        <tr class="odd">
+							<th scope="row">Monday 25th<br />10:30 A.M.</th>
 							<td><strong>Celebrate Christ's Birth</strong></td>
 							<td>Offering for Spurgeon's Childcare</td>
+						</tr>
+						<tr>
+							<th scope="row">Sunday 31st<br />10:30 A.M.<br />6:30 P.M.</th>
+							<td>New Year Services</td>
+							<td>Morning service will be led by<br />
+								Mr. Timothy Ogutu<br />
+								Evening service will be led by<br />
+								Rev. Philip Tout</td>
+						</tr>
+                        <tr class="odd">
+							<th scope="row">Wednesday 3rd<br />3:00-4:00 P.M.</th>
+							<td>Prayer time</td>
+							<td></td>
+						</tr>
+                        <tr>
+							<th scope="row">Sunday 7th<br />10:30 A.M.<br />6:30 P.M.</th>
+							<td>Sunday Services</td>
+							<td></td>
 						</tr>
 					</tbody>
 				</table>
