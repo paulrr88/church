@@ -21,7 +21,7 @@
 
 					<p>Each year we have <strong>songs, games (outdoors whenever possible!), quizzes, crafts, and more</strong>, so there's something for everyone.</p>
 
-					<p><strong>Details for 2018's club</strong> will appear here when the time comes!</p>
+					<!--<p><strong>Details for 2018's club</strong> will appear here when the time comes!</p>-->
 
                     <br />
 
