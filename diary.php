@@ -6,7 +6,7 @@
 
 				<p class="centre">(For a long-term look at our church, see the <a href="upcoming.php">Coming Weeks page</a>)</p>
 
-				<p class="centre"><strong>Schedule for the week 21st to 28th January</strong></p>
+				<p class="centre"><strong>Schedule for the week 28th January to 4th February</strong></p>
 
 				<table class="styled" summary="Schedule for events in the coming week(s)">
 					<thead>
@@ -23,24 +23,24 @@
 							<td></td>
 						</tr>
                         <tr>
-							<th scope="row">Thursday<br />2:00-4:00 P.M.</th>
-							<td>"Dabblers" Hobby Group</td>
-							<td>All welcome!</td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Friday<br />10:55 A.M.</th>
-							<td>Home Group at<br />Bryan &amp; Audrey's</td>
+							<th scope="row">Wednesday<br />3:00-4:00 P.M.</th>
+							<td>Prayer time</td>
 							<td></td>
 						</tr>
-						<tr>
+						<tr class="odd">
 							<th scope="row">Friday<br />5:00-6:00 P.M.</th>
 							<td>Friday Club<br />(Ages 4-12)</td>
 							<td></td>
 						</tr>
+                        <tr>
+							<th scope="row">Saturday<br /> 8:45 A.M.</th>
+							<td><strong>Women's Breakfast</strong>:<br />Annemarijn Dijkslag</td>
+							<td>(Ticket-holders only)</td>
+						</tr>
 						<tr class="odd">
 							<th scope="row">Sunday<br />10:30 A.M.<br />6:30 P.M.</th>
 							<td>Sunday Services</td>
-							<td></td>
+							<td>Evening worship includes communion</td>
 						</tr>
 					</tbody>
 				</table>
