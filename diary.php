@@ -2,11 +2,11 @@
 
 <?php include("header.php"); ?>
 			<div id="content">
-				<h1>Two Week Diary</h1>
+				<h1>This Week's Diary</h1>
 
 				<p class="centre">(For a long-term look at our church, see the <a href="upcoming.php">Coming Weeks page</a>)</p>
 
-				<p class="centre"><strong>Schedule for the weeks 11th to 25th February</strong></p>
+				<p class="centre"><strong>Schedule for the week 25th February to 4th March</strong></p>
 
 				<table class="styled" summary="Schedule for events in the coming week(s)">
 					<thead>
@@ -18,47 +18,29 @@
 					</thead>
 					<tbody>
 						<tr class="odd">
-							<th scope="row">Tuesday 13th<br />7:30 P.M.</th>
+							<th scope="row">Tuesday<br />7:30 P.M.</th>
 							<td>"Faith Explored"</td>
 							<td></td>
 						</tr>
                          <tr>
-							<th scope="row">Wednesday 14th<br />3:00-4:00 P.M.</th>
+							<th scope="row">Wednesday<br />3:00-4:00 P.M.</th>
 							<td>Prayer time</td>
 							<td></td>
 						</tr>
 						<tr class="odd">
-							<th scope="row">Thursday 15th<br /> 10:30 A.M.</th>
+							<th scope="row">Thursday<br /> 10:30 A.M.</th>
 							<td>Home Group at<br />Mike &amp; Pat's</td>
 							<td></td>
 						</tr>
 						<tr>
-							<th scope="row">Sunday 18th<br />10:30 A.M.<br />6:30 P.M.</th>
-							<td>Sunday Services</td>
-							<td>Morning service will be led by<br />
-								Rev. Colin Frampton<br />
-								Evening service will be led by<br />
-								Mr. David Napper</td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Thursday 22nd<br />2:00-4:00 P.M.</th>
-							<td>"Dabblers" Hobby Group</td>
-							<td>All welcome!</td>
-						</tr>
-						<tr>
-							<th scope="row">Friday 23rd<br />10:55 A.M.</th>
-							<td>Home Group at<br />Bryan &amp; Audrey's</td>
-							<td></td>
-						</tr>
-						<tr class="odd">
-							<th scope="row">Friday 23rd<br />5:00-6:00 P.M.</th>
+							<th scope="row">Friday<br />5:00-6:00 P.M.</th>
 							<td>Friday Club<br />(Ages 4-12)</td>
 							<td></td>
 						</tr>
-						<tr>
-							<th scope="row">Sunday 25th<br />10:30 A.M.<br />6:30 P.M.</th>
+						<tr class="odd">
+							<th scope="row">Sunday<br />10:30 A.M.<br />6:30 P.M.</th>
 							<td>Sunday Services</td>
-							<td></td>
+							<td>Evening worship includes communion</td>
 						</tr>
 					</tbody>
 				</table>
