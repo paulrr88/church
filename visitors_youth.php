@@ -9,7 +9,7 @@
 
 <p></p>
                     
-                    <p>All staff are trained in "Safe to Grow" procedures (the Baptist Union's guidelines for the protection of children and those who work with them) and all adults in regular contact with children have obtained the criminal record disclosures that are a legal requirement.</p>
+                    <p>All staff are trained in "Safe to Grow" procedures (the Baptist Union's guidelines for the protection of children and those who work with them) and all adult leaders have obtained the criminal record disclosures that are a legal requirement.</p>
                     
 
 				<p>In the summer holidays, <strong>we run a one week <a href="holidayclub.php">Holiday Bible Club</a> for children</strong> which is very popular in the village - especially with parents!</p><br /><br /><br /><br /></div>
