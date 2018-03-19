@@ -62,8 +62,8 @@
 						</tr>
 						<tr class="odd">
 							<th scope="row">Mar 11th</th>
-							<td>TBC</td>
-							<td>TBC</td>
+							<td>Mrs. Maeve Whitchurch</td>
+							<td>Rev. Philip Tout</td>
 						</tr>
 						<tr>
 							<th scope="row">Mar 18th</th>
