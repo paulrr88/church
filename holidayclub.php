@@ -11,7 +11,7 @@
 
 				<!-- CLUB DATES -->
 
-					<!--<p><em><strong><span style="color: red;">This year's Holiday Club will be held Tuesday 8th to Friday 11th August</span></strong></em>.</p><br /><br />
+					<p><em><strong><span style="color: red;">This year's Holiday Club will be held Tuesday 21st to Friday 24th August</span></strong></em>.</p><br /><br />
 
 				<!-- END -->
 
